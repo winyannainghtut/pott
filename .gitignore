@@ -1,0 +1,49 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# AI / agent tooling
+.trash/
+.agents/
+.aider*
+.augment/
+.claude/
+.codex/
+.continue/
+.crush/
+.cursor/
+.devin/
+.gemini/
+.goose/
+.junie/
+.kiro/
+.kilocode/
+.openhands/
+.qodo/
+.roo/
+.serena/
+.sourcegraph/
+.tabnine/
+.tessl/
+.windsurf/
+.mcp.json
+mcp.json
+tessl.json
+.github/skills/
+.vscode/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+*.skill.md
+.skill.md

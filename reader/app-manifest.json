@@ -1,0 +1,29 @@
+{
+  "name": "Pursuit of the Truth Reader",
+  "short_name": "PotT Reader",
+  "description": "Offline-capable chapter reader for Pursuit of the Truth novel",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f4ef",
+  "theme_color": "#f4f4ef",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": [
+    "books",
+    "entertainment"
+  ],
+  "prefer_related_applications": false
+}
