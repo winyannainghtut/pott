@@ -154,11 +154,103 @@ This file tracks the translation progress from English to Burmese for Chapters 1
 | 148 | Chapter 148 | Completed | နေရာရွှေ့ပြောင်းခြင်း သင်္ကေတ | `burmese-episodes/0101-0200/0148.md` |
 | 149 | Chapter 149 | Completed | ဘိုးဘေး မသေဆုံးသေးခြင်း လျှို့ဝှက်ချက် | `burmese-episodes/0101-0200/0149.md` |
 | 150 | Chapter 150 | Completed | ရင်ဆိုင်တွေ့ဆုံခြင်း | `burmese-episodes/0101-0200/0150.md` |
-
-
-
-
-
-
-
-
+| 151 | Chapter 151 | Completed | ပင့်သက်တစ်ချက်၏ ဆန်းကြယ်သောအစွမ်း | `burmese-episodes/0101-0200/0151.md` |
+| 152 | Chapter 152 | Completed | သတ်ဖြတ်ခြင်းနှင့် စုစည်းခြင်း | `burmese-episodes/0101-0200/0152.md` |
+| 153 | Chapter 153 | Completed | အကျိုးအမြတ်ကို အညီအမျှ ခွဲဝေခြင်း | `burmese-episodes/0101-0200/0153.md` |
+| 154 | Chapter 154 | Completed | ကမ္ဘာအားလုံး၏ ကိုးကွယ်ပူဇော်မှု! | `burmese-episodes/0101-0200/0154.md` |
+| 155 | Chapter 155 | Completed | နားမထောင်အပ်သော စကားလုံးများ! | `burmese-episodes/0101-0200/0155.md` |
+| 156 | Chapter 156 | Completed | မင်း... နောက်ဆုံးတော့... ရောက်လာခဲ့ပြီပဲ... | `burmese-episodes/0101-0200/0156.md` |
+| 157 | Chapter 157 | Completed | မင်း တကယ်ပဲ... ငါ့ကို စိတ်ပျက်စေတာပဲ... | `burmese-episodes/0101-0200/0157.md` |
+| 158 | Chapter 158 | Completed | ကံကြမ္မာ၏ ဆင့်ခေါ်သံ | `burmese-episodes/0101-0200/0158.md` |
+| 159 | Chapter 159 | Completed | ဆေးရောင်စုံအိုင် ရုပ်ထု ဆင်းသက်လာခြင်း! | `burmese-episodes/0101-0200/0159.md` |
+| 160 | Chapter 160 | Completed | ဂျိုးရှန်း ပေါ်ထွန်းလာခြင်း! | `burmese-episodes/0101-0200/0160.md` |
+| 161 | Chapter 161 | Completed | ကနဦး အတိတ်ကို ပြန်လည် မြင်တွေ့ရခြင်း! | `burmese-episodes/0101-0200/0161.md` |
+| 162 | Chapter 162 | Completed | စုမင် နှင့် ကံကြမ္မာ (Su Ming) | `burmese-episodes/0101-0200/0162.md` |
+| 163 | Chapter 163 | Completed | အစွမ်းကုန် စွန့်စားခြင်း! | `burmese-episodes/0101-0200/0163.md` |
+| 164 | Chapter 164 | Completed | ကံကြမ္မာ၏ ဝင်္ကပါ | `burmese-episodes/0101-0200/0164.md` |
+| 165 | Chapter 165 | Completed | ငါ ဘယ်သူလဲ..? | `burmese-episodes/0101-0200/0165.md` |
+| 166 | Chapter 166 | Completed | သွေးခဲခြင်းအဆင့် ပြီးပြည့်စုံခြင်း | `burmese-episodes/0101-0200/0166.md` |
+| 167 | Chapter 167 | Completed | အမြင့်ဆုံးကို ရည်မှန်းခြင်း | `burmese-episodes/0101-0200/0167.md` |
+| 168 | Chapter 168 | Completed | မဟာရုပ်ထုကြီး သုံးခု | `burmese-episodes/0101-0200/0168.md` |
+| 169 | Chapter 169 | Completed | ဦးလေး... ဟိုမှာ... | `burmese-episodes/0101-0200/0169.md` |
+| 170 | Chapter 170 | Completed | စီမာရှင်း! | `burmese-episodes/0101-0200/0170.md` |
+| 171 | Chapter 171 | Completed | နောက်ထပ် ကတိတစ်ခု... | `burmese-episodes/0101-0200/0171.md` |
+| 172 | Chapter 172 | Completed | မိုးရေထဲမှ ဟန်တောင်တန်း သံကြိုးများ | `burmese-episodes/0101-0200/0172.md` |
+| 173 | Chapter 173 | Completed | လန့်လှုပ်သွားသော ဟန်တောင်တန်း | `burmese-episodes/0101-0200/0173.md` |
+| 174 | Chapter 174 | Completed | အရှိန်အဝါ တစ်ဟုန်ထိုး တိုးလာခြင်း | `burmese-episodes/0101-0200/0174.md` |
+| 175 | Chapter 175 | Completed | တစ်လောကလုံးကို လှုပ်ခတ်သွားစေခြင်း | `burmese-episodes/0101-0200/0175.md` |
+| 176 | Chapter 176 | Completed | ခေါင်းကိုးလုံးနဂါး | `burmese-episodes/0101-0200/0176.md` |
+| 177 | Chapter 177 | Completed | စိန်ခေါ်ခြင်းကို စတင်ခြင်း | `burmese-episodes/0101-0200/0177.md` |
+| 178 | Chapter 178 | Completed | ပီထူမျိုးနွယ်စု၏ လုပ်ကြံမှု | `burmese-episodes/0101-0200/0178.md` |
+| 179 | Chapter 179 | Completed | စကားလုံးမဲ့ တုံ့ပြန်မှု | `burmese-episodes/0101-0200/0179.md` |
+| 180 | Chapter 180 | Completed | သံကြိုး၏ လျှို့ဝက်ချက် | `burmese-episodes/0101-0200/0180.md` |
+| 181 | Chapter 181 | Completed | တုန်လှုပ်ချောက်ခြားဖွယ် စွဲလမ်းမှု | `burmese-episodes/0101-0200/0181.md` |
+| 182 | Chapter 182 | Completed | ရှင်သန်ခြင်းနှင့် ပျက်စီးခြင်း | `burmese-episodes/0101-0200/0182.md` |
+| 183 | Chapter 183 | Completed | လေချန်နှင့် ပေလင် | `burmese-episodes/0101-0200/0183.md` |
+| 184 | Chapter 184 | Completed | သေခြင်းတံခါးဝမှ ပြန်လည်သက်ရှိထင်ရှားလာခြင်း | `burmese-episodes/0101-0200/0184.md` |
+| 185 | Chapter 185 | Completed | ငါ့မှာ အရည်အချင်းရှိလား | `burmese-episodes/0101-0200/0185.md` |
+| 186 | Chapter 186 | Completed | လူအုပ်ကြီး၏ မကျေနပ်ချက် ပေါက်ကွဲထွက်ပေါ်လာခြင်း | `burmese-episodes/0101-0200/0186.md` |
+| 187 | Chapter 187 | Completed | မင်းရဲ့ အစစ်အမှန် စွမ်းအားကို ပြသလိုက်စမ်း! | `burmese-episodes/0101-0200/0187.md` |
+| 188 | Chapter 188 | Completed | သွေးကြောပေါင်း ၉၈၀ စင်း! | `burmese-episodes/0101-0200/0188.md` |
+| 189 | Chapter 189 | Completed | ၉၈၆ စင်းမြောက် သွေးကြောမျဉ်း | `burmese-episodes/0101-0200/0189.md` |
+| 190 | Chapter 190 | Completed | ၉၈၇ စင်းမြောက် သွေးကြောမျဉ်း | `burmese-episodes/0101-0200/0190.md` |
+| 191 | Chapter 191 | Completed | ၉၉၁ စင်းမြောက် သွေးကြောမျဉ်း | `burmese-episodes/0101-0200/0191.md` |
+| 192 | Chapter 192 | Completed | စိတ်ကူးယဉ်ဆန်သော အတွေးတစ်ခု | `burmese-episodes/0101-0200/0192.md` |
+| 193 | Chapter 193 | Completed | ငါ ငြင်းဆန်တယ် | `burmese-episodes/0101-0200/0193.md` |
+| 194 | Chapter 194 | Completed | တံဆိပ်ခတ်ခြင်းအောက်မှ လျှပ်စီးကြောင်း | `burmese-episodes/0101-0200/0194.md` |
+| 195 | Chapter 195 | Completed | မြေသားလျှပ်စီးနှင့် ဟင်းလင်းပြင်လျှပ်စီး | `burmese-episodes/0101-0200/0195.md` |
+| 196 | Chapter 196 | Completed | လျှပ်စီးကြောင်းကို မူလဘာဆာကာအိုးအဖြစ် ဖော်စပ်ခြင်း | `burmese-episodes/0101-0200/0196.md` |
+| 197 | Chapter 197 | Completed | ပထမဆုံးအကြိမ် ထိပ်တိုက်ရင်ဆိုင်ခြင်း | `burmese-episodes/0101-0200/0197.md` |
+| 198 | Chapter 198 | Completed | ဖန်တီးခြင်းကိုးပါး | `burmese-episodes/0101-0200/0198.md` |
+| 199 | Chapter 199 | Completed | ၎င်းက ငါ မဟုတ်ပါဘူး | `burmese-episodes/0101-0200/0199.md` |
+| 200 | Chapter 200 | Completed | ၎င်းက လမင်းကြီးလား | `burmese-episodes/0101-0200/0200.md` |
+| 201 | Chapter 201 | Completed | စွန့်လွှတ်ခြင်း | `burmese-episodes/0201-0300/0201.md` |
+| 202 | Chapter 202 | Completed | ဒုတိယမြောက် ဘာဆာကာအမှတ်အသား | `burmese-episodes/0201-0300/0202.md` |
+| 203 | Chapter 203 | Completed | တောင်တန်းမည်း | `burmese-episodes/0201-0300/0203.md` |
+| 204 | Chapter 204 | Completed | အိမ်ပြန်လမ်းမြေပုံ | `burmese-episodes/0201-0300/0204.md` |
+| 205 | Chapter 205 | Completed | သင့်ရွေးချယ်မှု | `burmese-episodes/0201-0300/0205.md` |
+| 206 | Chapter 206 | Completed | ငါက သူ့အဖေပဲ! | `burmese-episodes/0201-0300/0206.md` |
+| 207 | Chapter 207 | Completed | စစ်မှန်သော ရုပ်အသွင် | `burmese-episodes/0201-0300/0207.md` |
+| 208 | Chapter 208 | Completed | စစ်သူကြီးအရှင်၊ ခင်ဗျား ဘယ်မှာလဲ... | `burmese-episodes/0201-0300/0208.md` |
+| 209 | Chapter 209 | Completed | ဆရာကြီး ထျန်းရှဲ့ဇီ၏ တုန်လှုပ်မှု | `burmese-episodes/0201-0300/0209.md` |
+| 210 | Chapter 210 | Completed | ဝိညာဉ်ဖန်တီးခြင်း အသံလှိုင်း | `burmese-episodes/0201-0300/0210.md` |
+| 211 | Chapter 211 | Completed | ငါက မော့စုပဲ! | `burmese-episodes/0201-0300/0211.md` |
+| 212 | Chapter 212 | Completed | စစ်သူကြီးအရှင်မှာလည်း သူပဲ! | `burmese-episodes/0201-0300/0212.md` |
+| 213 | Chapter 213 | Completed | အိမ်ပြန်လမ်း၏ အစ | `burmese-episodes/0201-0300/0213.md` |
+| 214 | Chapter 214 | Completed | ဘာဆာကာ အဆင့်လေးဆင့် | `burmese-episodes/0201-0300/0214.md` |
+| 215 | Chapter 215 | Completed | ငါတို့ အိမ်ပြန်ကြစို့ | `burmese-episodes/0201-0300/0215.md` |
+| 216 | Chapter 216 | Completed | မိုးကောင်းကင်မြူခိုးမြို့တော် | `burmese-episodes/0201-0300/0216.md` |
+| 217 | Chapter 217 | Completed | ဆရာဦးလေး ပိုင် | `burmese-episodes/0201-0300/0217.md` |
+| 218 | Chapter 218 | Completed | ရေခဲကောင်းကင်ဂိုဏ်း | `burmese-episodes/0201-0300/0218.md` |
+| 219 | Chapter 219 | Completed | ကိုးခုမြောက်တောင်ထွတ် | `burmese-episodes/0201-0300/0219.md` |
+| 220 | Chapter 220 | Completed | ပထမဆုံးရတနာ | `burmese-episodes/0201-0300/0220.md` |
+| 221 | Chapter 221 | Completed | နေရပ်လိပ်စာ | `burmese-episodes/0201-0300/0221.md` |
+| 222 | Chapter 222 | Completed | စိတ်ကြည်လင်ခြင်း | `burmese-episodes/0201-0300/0222.md` |
+| 223 | Chapter 223 | Completed | သားရေမြေပုံ | `burmese-episodes/0201-0300/0223.md` |
+| 224 | Chapter 224 | Completed | ကိုးခုမြောက်တောင်ထွတ် | `burmese-episodes/0201-0300/0224.md` |
+| 225 | Chapter 225 | Completed | အသိဉာဏ်ပွင့်လင်းမှု အသီးသီး | `burmese-episodes/0201-0300/0225.md` |
+| 226 | Chapter 226 | Completed | ဖန်တီးခြင်း၏ လက်များ | `burmese-episodes/0201-0300/0226.md` |
+| 227 | Chapter 227 | Completed | နားလည်သဘောပေါက်ခြင်း | `burmese-episodes/0201-0300/0227.md` |
+| 228 | Chapter 228 | Completed | တစ်လှမ်းတည်း... | `burmese-episodes/0201-0300/0228.md` |
+| 229 | Chapter 229 | Completed | ငါ့ရဲ့ တာအိုကို ဖန်တီးခြင်း | `burmese-episodes/0201-0300/0229.md` |
+| 230 | Chapter 230 | Completed | အဝိုင်းပုံမန္တန်အက္ခရာကို ပြောင်းလဲခြင်း | `burmese-episodes/0201-0300/0230.md` |
+| 231 | Chapter 231 | Completed | ရွှေရောင်ဆန်းပြားကုန်းပတ် | `burmese-episodes/0201-0300/0231.md` |
+| 232 | Chapter 232 | Completed | ချန်ချီ | `burmese-episodes/0201-0300/0232.md` |
+| 233 | Chapter 233 | Completed | ပိုင်လင် | `burmese-episodes/0201-0300/0233.md` |
+| 234 | Chapter 234 | Completed | ဦးလေးတော်ဆရာ | `burmese-episodes/0201-0300/0234.md` |
+| 235 | Chapter 235 | Completed | ငါက မင်းရဲ့ ဦးလေးတော်စပ်သူပဲ | `burmese-episodes/0201-0300/0235.md` |
+| 236 | Chapter 236 | Completed | ဒါက ငါ့ရဲ့ ပြီးပြည့်စုံတဲ့ ဘာဆာကာအမှတ်အသားပဲ! | `burmese-episodes/0201-0300/0236.md` |
+| 237 | Chapter 237 | Completed | သူတို့နှစ်ယောက်က… အရမ်းတူလွန်းတယ်… | `burmese-episodes/0201-0300/0237.md` |
+| 238 | Chapter 238 | Completed | ဘာဆာကာနတ်ဘုရား အသွင်ပြောင်းလဲခြင်း! | `burmese-episodes/0201-0300/0238.md` |
+| 239 | Chapter 239 | Completed | သံယောဇဉ်မဲ့ ဘာဆာကာမျိုးစေ့ မဟာကျင့်စဉ်! | `burmese-episodes/0201-0300/0239.md` |
+| 240 | Chapter 240 | Completed | ပိုင်စု! | `burmese-episodes/0201-0300/0240.md` |
+| 241 | Chapter 241 | Completed | ချန်ရှန်း! | `burmese-episodes/0201-0300/0241.md` |
+| 242 | Chapter 242 | Completed | သစ်သားပေချပ်များ! | `burmese-episodes/0201-0300/0242.md` |
+| 243 | Chapter 243 | Completed | ရှောင်ဟုန်! | `burmese-episodes/0201-0300/0243.md` |
+| 244 | Chapter 244 | Completed | ကောင်းကင်တံခါး! | `burmese-episodes/0201-0300/0244.md` |
+| 245 | Chapter 245 | Completed | မင်းကို ငါ လိုချင်တယ်! | `burmese-episodes/0201-0300/0245.md` |
+| 246 | Chapter 246 | Completed | ငါ့ရဲ့ တီထွင်ဖန်တီးမှုကြီး! | `burmese-episodes/0201-0300/0246.md` |
+| 247 | Chapter 247 | Completed | မဟာရာစုနှစ်တိုက်ပွဲ! | `burmese-episodes/0201-0300/0247.md` |
+| 248 | Chapter 248 | Completed | ဇီယန်! | `burmese-episodes/0201-0300/0248.md` |
+| 249 | Chapter 249 | Completed | ခရမ်းရောင်ဝတ်ရုံ | `burmese-episodes/0201-0300/0249.md` |
+| 250 | Chapter 250 | Completed | ခရမ်းရောင်ဝတ်ရုံ၏ သွေးထွက်သံယိုမှု | `burmese-episodes/0201-0300/0250.md` |
