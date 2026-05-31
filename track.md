@@ -354,3 +354,53 @@ This file tracks the translation progress from English to Burmese for Chapters 1
 | 348 | Chapter 348 | Completed | ရဲဝံ့သူက အနိုင်ရလိမ့်မည် | `burmese-episodes/0301-0400/0348.md` |
 | 349 | Chapter 349 | Completed | ရဲဘော်ရဲဘက် | `burmese-episodes/0301-0400/0349.md` |
 | 350 | Chapter 350 | Completed | ပြသမှုတစ်ခု | `burmese-episodes/0301-0400/0350.md` |
+| 351 | Chapter 351 | Completed | တုန်လှုပ်ချောက်ချားဖွယ်ရာ ဖျော်ဖြေမှု | `burmese-episodes/0301-0400/0351.md` |
+| 352 | Chapter 352 | Completed | ဘာဆာကာမျိုးနွယ်စု၏ သူရဲကောင်း | `burmese-episodes/0301-0400/0352.md` |
+| 353 | Chapter 353 | Completed | နဝမတောင်ထွတ်၏ အမိန့် | `burmese-episodes/0301-0400/0353.md` |
+| 354 | Chapter 354 | Completed | လေအလား ပြောင်းလဲခြင်း | `burmese-episodes/0301-0400/0354.md` |
+| 355 | Chapter 355 | Completed | လေဘာဆာကာ | `burmese-episodes/0301-0400/0355.md` |
+| 356 | Chapter 356 | Completed | ကံကြမ္မာ | `burmese-episodes/0301-0400/0356.md` |
+| 357 | Chapter 357 | Completed | အရိုးစတေးခြင်းအဆင့် | `burmese-episodes/0301-0400/0357.md` |
+| 358 | Chapter 358 | Completed | ၁၀၀၀ မြောက် သွေးကြောစင်း | `burmese-episodes/0301-0400/0358.md` |
+| 359 | Chapter 359 | Completed | ကောင်းကင်မြူခိုး၏ သားတော် | `burmese-episodes/0301-0400/0359.md` |
+| 360 | Chapter 360 | Completed | ပထမဦးဆုံးသော ဘာဆာကာနတ်ဘုရား၏ အမွေအနှစ် | `burmese-episodes/0301-0400/0360.md` |
+| 361 | Chapter 361 | Completed | အရိုးစတေးခြင်း၏ စွမ်းအား! | `burmese-episodes/0301-0400/0361.md` |
+| 362 | Chapter 362 | Completed | ငါ့နောက်ကို မလိုက်နဲ့! | `burmese-episodes/0301-0400/0362.md` |
+| 363 | Chapter 363 | Completed | ဘာဆာကာဝိညာဉ်၏ သတ်ဖြတ်လိုစိတ်! | `burmese-episodes/0301-0400/0363.md` |
+| 364 | Chapter 364 | Completed | ဘာဆာကာနတ်ဘုရား၏ စွမ်းအား! | `burmese-episodes/0301-0400/0364.md` |
+| 365 | Chapter 365 | Completed | ဒုက္ခရောက်ခြင်း! | `burmese-episodes/0301-0400/0365.md` |
+| 366 | Chapter 366 | Completed | ထွက်ခွာသွားနိုင်ခြင်းမရှိ! | `burmese-episodes/0301-0400/0366.md` |
+| 367 | Chapter 367 | Completed | ဆောင်းဦးပင်လယ် မျိုးနွယ်စု! | `burmese-episodes/0301-0400/0367.md` |
+| 368 | Chapter 368 | Completed | ယာမု! | `burmese-episodes/0301-0400/0368.md` |
+| 369 | Chapter 369 | Completed | ကျိုလီ! | `burmese-episodes/0301-0400/0369.md` |
+| 370 | Chapter 370 | Completed | ဆောင်းဦးပင်လယ် သန့်ရှင်းသောအမျိုးသမီး! | `burmese-episodes/0301-0400/0370.md` |
+| 371 | Chapter 371 | Completed | ဝိညာဉ်ဖမ်းစားသူ | `burmese-episodes/0301-0400/0371.md` |
+| 372 | Chapter 372 | Completed | ဧည့်သည်တော် | `burmese-episodes/0301-0400/0372.md` |
+| 373 | Chapter 373 | Completed | ရတနာများ | `burmese-episodes/0301-0400/0373.md` |
+| 374 | Chapter 374 | Completed | စုမင်၏ ဆုံးဖြတ်ချက် | `burmese-episodes/0301-0400/0374.md` |
+| 375 | Chapter 375 | Completed | နွားလားဥဿဘဖြူ မျိုးနွယ်စုဝင်များ | `burmese-episodes/0301-0400/0375.md` |
+| 376 | Chapter 376 | Completed | စုမင်၏ အေးစက်စက် အကြည့် | `burmese-episodes/0301-0400/0376.md` |
+| 377 | Chapter 377 | Completed | ဟန်တောင်ခေါင်းလောင်းကို တစ်ဖန် ပြန်လည် သန့်စင်ခြင်း | `burmese-episodes/0301-0400/0377.md` |
+| 378 | Chapter 378 | Completed | ပဥ္စမမြောက် ခေါင်း ပွင့်လာခြင်း | `burmese-episodes/0301-0400/0378.md` |
+| 379 | Chapter 379 | Completed | ဆဋ္ဌမမြောက် ခေါင်း ပွင့်လာခြင်း | `burmese-episodes/0301-0400/0379.md` |
+| 380 | Chapter 380 | Completed | လေနှင့် လျှပ်စီးတို့၏ စွမ်းအား | `burmese-episodes/0301-0400/0380.md` |
+| 381 | Chapter 381 | Completed | ဂျိုးငှက်နက် မျိုးနွယ်စု | `burmese-episodes/0301-0400/0381.md` |
+| 382 | Chapter 382 | Completed | ဝိညာဉ်ဖမ်းစားသံ! | `burmese-episodes/0301-0400/0382.md` |
+| 383 | Chapter 383 | Completed | လူပျိုလေး | `burmese-episodes/0301-0400/0383.md` |
+| 384 | Chapter 384 | Completed | ဂျီသခင်မ၏ ခင်ပွန်း | `burmese-episodes/0301-0400/0384.md` |
+| 385 | Chapter 385 | Completed | ဂျိယွန်းဟိုင် | `burmese-episodes/0301-0400/0385.md` |
+| 386 | Chapter 386 | Completed | ကျိန်စာ! | `burmese-episodes/0301-0400/0386.md` |
+| 387 | Chapter 387 | Completed | ကျိန်စာအပေါ် ယူဆချက်များ | `burmese-episodes/0301-0400/0387.md` |
+| 388 | Chapter 388 | Completed | ငါက ရက်စက်တယ်လို့ မင်းပြောတယ်လား။ | `burmese-episodes/0301-0400/0388.md` |
+| 389 | Chapter 389 | Completed | ဂျီသခင်မ၏ သေဆုံးခြင်း! | `burmese-episodes/0301-0400/0389.md` |
+| 390 | Chapter 390 | Completed | ပေါက်ကွဲထွက်ခြင်း | `burmese-episodes/0301-0400/0390.md` |
+| 391 | Chapter 391 | Completed | ညဉ့်ဦးယံထဲမှ နိုးထလာသူ! | `burmese-episodes/0301-0400/0391.md` |
+| 392 | Chapter 392 | Completed | သွေးနဂါးကြီး ပေါ်ပေါက်လာခြင်း! | `burmese-episodes/0301-0400/0392.md` |
+| 393 | Chapter 393 | Completed | ငါက ဆောင်းဦးပင်လယ်မျိုးနွယ်စုရဲ့ ဇုန်ကျဲပဲ! | `burmese-episodes/0301-0400/0393.md` |
+| 394 | Chapter 394 | Completed | ငါ မင်းကို ညဉ့်ဦးယံရဲ့ နီရဲတဲ့ မျက်လုံးတွေကို ပေးသနားတယ်... | `burmese-episodes/0301-0400/0394.md` |
+| 395 | Chapter 395 | Completed | မင်းက ကံကြမ္မာပဲ! | `burmese-episodes/0301-0400/0395.md` |
+| 396 | Chapter 396 | Completed | နီရဲသောကွန်ရက်၏ ပြီးပြည့်စုံသော ပုံဖော်ခြင်း... | `burmese-episodes/0301-0400/0396.md` |
+| 397 | Chapter 397 | Completed | ကံကြမ္မာရဲ့ ဆွဲထုတ်ခြင်း! | `burmese-episodes/0301-0400/0397.md` |
+| 398 | Chapter 398 | Completed | သန့်ရှင်းသော ဝိညာဉ်ရတနာ၏ ဖိနှိပ်ခြင်း! | `burmese-episodes/0301-0400/0398.md` |
+| 399 | Chapter 399 | Completed | ဒီထျန်း ရောက်ရှိလာခြင်း! | `burmese-episodes/0301-0400/0399.md` |
+| 400 | Chapter 400 | Completed | ကောင်းကင်ပြင် ပြိုကွဲခြင်း! | `burmese-episodes/0301-0400/0400.md` |
