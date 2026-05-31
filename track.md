@@ -254,3 +254,54 @@ This file tracks the translation progress from English to Burmese for Chapters 1
 | 248 | Chapter 248 | Completed | ဇီယန်! | `burmese-episodes/0201-0300/0248.md` |
 | 249 | Chapter 249 | Completed | ခရမ်းရောင်ဝတ်ရုံ | `burmese-episodes/0201-0300/0249.md` |
 | 250 | Chapter 250 | Completed | ခရမ်းရောင်ဝတ်ရုံ၏ သွေးထွက်သံယိုမှု | `burmese-episodes/0201-0300/0250.md` |
+| 251 | Chapter 251 | Completed | ငါ မတွေ့ဘူး | `burmese-episodes/0201-0300/0251.md` |
+| 252 | Chapter 252 | Completed | စိတ်ဝိညာဉ်ဆိုတာ အမှန်တကယ်တော့ ဘာလဲ | `burmese-episodes/0201-0300/0252.md` |
+| 253 | Chapter 253 | Completed | မင်း ၎င်းကို ကူးယူနိုင်သလား | `burmese-episodes/0201-0300/0253.md` |
+| 254 | Chapter 254 | Completed | ပထမဆုံးသော နှလုံးသားပြောင်းလဲခြင်း | `burmese-episodes/0201-0300/0254.md` |
+| 255 | Chapter 255 | Completed | မင်း မန္တရားအတတ်တွေနဲ့ တိုက်ခိုက်တတ်သလား | `burmese-episodes/0201-0300/0255.md` |
+| 256 | Chapter 256 | Completed | ငါ တတ်တယ်၊ ငါ မတတ်ဘူး | `burmese-episodes/0201-0300/0256.md` |
+| 257 | Chapter 257 | Completed | နှလုံးသားတိုက်ပွဲ | `burmese-episodes/0201-0300/0257.md` |
+| 258 | Chapter 258 | Completed | အရူးအိုကြီး | `burmese-episodes/0201-0300/0258.md` |
+| 259 | Chapter 259 | Completed | စပလစ်ဒေါင်း (Split Dawn) | `burmese-episodes/0201-0300/0259.md` |
+| 260 | Chapter 260 | Completed | တောအုပ်က ငါ့အိမ်ပဲ | `burmese-episodes/0201-0300/0260.md` |
+| 261 | Chapter 261 | Completed | ပထမဆုံးသော ရှာမန်အမဲလိုက်ခြင်း | `burmese-episodes/0201-0300/0261.md` |
+| 262 | Chapter 262 | Completed | အကြင်နာတရား၏ အကျိုးဆက် | `burmese-episodes/0201-0300/0262.md` |
+| 263 | Chapter 263 | Completed | စုမင်၏ တစ်ချက်တည်းသော ဖြတ်တောက်မှု | `burmese-episodes/0201-0300/0263.md` |
+| 264 | Chapter 264 | Completed | ဖန်ဆင်းခြင်းနှင့် စိတ်နှလုံးပြောင်းလဲခြင်း | `burmese-episodes/0201-0300/0264.md` |
+| 265 | Chapter 265 | Completed | အမဲလိုက်ခံရသူ၏ တန်ပြန်တိုက်ခိုက်မှု | `burmese-episodes/0201-0300/0265.md` |
+| 266 | Chapter 266 | Completed | အစွမ်းကုန် တိုက်ခိုက်ခြင်း | `burmese-episodes/0201-0300/0266.md` |
+| 267 | Chapter 267 | Completed | ပိုင်ချန်ချိုက်၏ ကိုယ်ပွားစွမ်းအား | `burmese-episodes/0201-0300/0267.md` |
+| 268 | Chapter 268 | Completed | ဧရာမလစ်ဇတ်နတ်ဘုရားကြီး | `burmese-episodes/0201-0300/0268.md` |
+| 269 | Chapter 269 | Completed | ဘာဆာကာနတ်ဘုရားသီချင်း | `burmese-episodes/0201-0300/0269.md` |
+| 270 | Chapter 270 | Completed | ဆရာ့ထံမှ ကာကွယ်မှု | `burmese-episodes/0201-0300/0270.md` |
+| 271 | Chapter 271 | Completed | ဆရာသခင် | `burmese-episodes/0201-0300/0271.md` |
+| 272 | Chapter 272 | Completed | ဆန်းကြယ်သော ဖန်တီးမှုလော | `burmese-episodes/0201-0300/0272.md` |
+| 273 | Chapter 273 | Completed | ပုံမှန်အတိုင်းပင် | `burmese-episodes/0201-0300/0273.md` |
+| 274 | Chapter 274 | Completed | ပြန်လည်သုံးသပ်ခြင်း | `burmese-episodes/0201-0300/0274.md` |
+| 275 | Chapter 275 | Completed | သူမသည် သူမနှင့် ပို၍တူလှသည် | `burmese-episodes/0201-0300/0275.md` |
+| 276 | Chapter 276 | Completed | ပထမဆုံးနေ့တွင် ငါနိုင်ခဲ့ပြီ! | `burmese-episodes/0201-0300/0276.md` |
+| 277 | Chapter 277 | Completed | ရက်အနည်းငယ်မျှ တိတ်ဆိတ်အေးချမ်းခြင်း | `burmese-episodes/0201-0300/0277.md` |
+| 278 | Chapter 278 | Completed | ဟာမိုနီယပ်စ် မိုးရပ်စ်အယ်လ်ဘာ | `burmese-episodes/0201-0300/0278.md` |
+| 279 | Chapter 279 | Completed | သုံးလတာ ကာလ | `burmese-episodes/0201-0300/0279.md` |
+| 280 | Chapter 280 | Completed | မျက်စိမှိတ်ထားသော ဝက်တုတ်ကြီး | `burmese-episodes/0201-0300/0280.md` |
+| 281 | Chapter 281 | Completed | ရွှေရော်ခ်ငှက်၏ အရှိန်အဟုန် | `burmese-episodes/0201-0300/0281.md` |
+| 282 | Chapter 282 | Completed | စီချယ်၏ ပြန်လာခြင်း | `burmese-episodes/0201-0300/0282.md` |
+| 283 | Chapter 283 | Completed | ဖန်တမ်ဒိုက်စ် မျိုးနွယ်စု | `burmese-episodes/0201-0300/0283.md` |
+| 284 | Chapter 284 | Completed | ကြောင်ပေါက်လေး | `burmese-episodes/0201-0300/0284.md` |
+| 285 | Chapter 285 | Completed | မိုရှန်း | `burmese-episodes/0201-0300/0285.md` |
+| 286 | Chapter 286 | Completed | ကိုးခုမြောက်တောင်ထိပ်၏ စည်းကမ်း | `burmese-episodes/0201-0300/0286.md` |
+| 287 | Chapter 287 | Completed | ယူလင်း | `burmese-episodes/0201-0300/0287.md` |
+| 288 | Chapter 288 | Completed | ညီလေးသုံး၏ အိပ်မက်ဝင်ကျင့်စဉ် | `burmese-episodes/0201-0300/0288.md` |
+| 289 | Chapter 289 | Completed | ဘာဆာကာသုတ်သင်ခြင်း | `burmese-episodes/0201-0300/0289.md` |
+| 290 | Chapter 290 | Completed | ဖန်တမ်ရိပ်ဖျတ်လှုပ်ရှားမှု | `burmese-episodes/0201-0300/0290.md` |
+| 291 | Chapter 291 | Completed | ညဉ့်နက်လေပြီ | `burmese-episodes/0201-0300/0291.md` |
+| 292 | Chapter 292 | Completed | ငါက ထျန်းရှဲ့ဇီ မဟုတ်ဘူး | `burmese-episodes/0201-0300/0292.md` |
+| 293 | Chapter 293 | Completed | ဒါက သက်သေပဲ | `burmese-episodes/0201-0300/0293.md` |
+| 294 | Chapter 294 | Completed | ဓားပြတိုက်ခြင်း | `burmese-episodes/0201-0300/0294.md` |
+| 295 | Chapter 295 | Completed | ငါက မင်းကို ယုံတယ် | `burmese-episodes/0201-0300/0295.md` |
+| 296 | Chapter 296 | Completed | စကိုင်းမစ် ရှာမန် အမဲလိုက်ပွဲမတိုင်မီ အကြီးမားဆုံး လေလံပွဲ | `burmese-episodes/0201-0300/0296.md` |
+| 297 | Chapter 297 | Completed | ပထမဆုံးအကြိမ် မျိုးနွယ်စုမှ ထွက်ခွာခြင်း | `burmese-episodes/0201-0300/0297.md` |
+| 298 | Chapter 298 | Completed | လမ်းလျှောက်နေသော ကိုးခုမြောက်တောင်ထွတ် | `burmese-episodes/0201-0300/0298.md` |
+| 299 | Chapter 299 | Completed | တောင်တန်းကြီးတစ်ခုနှင့် ဆင်တူသော အလေးချိန် | `burmese-episodes/0201-0300/0299.md` |
+| 300 | Chapter 300 | Completed | နှင်းကျသံကို နားထောင်ခြင်း | `burmese-episodes/0201-0300/0300.md` |
+
