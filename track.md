@@ -304,4 +304,53 @@ This file tracks the translation progress from English to Burmese for Chapters 1
 | 298 | Chapter 298 | Completed | လမ်းလျှောက်နေသော ကိုးခုမြောက်တောင်ထွတ် | `burmese-episodes/0201-0300/0298.md` |
 | 299 | Chapter 299 | Completed | တောင်တန်းကြီးတစ်ခုနှင့် ဆင်တူသော အလေးချိန် | `burmese-episodes/0201-0300/0299.md` |
 | 300 | Chapter 300 | Completed | နှင်းကျသံကို နားထောင်ခြင်း | `burmese-episodes/0201-0300/0300.md` |
-
+| 301 | Chapter 301 | Completed | ပထမဆုံးသော နှလုံးသားပြောင်းလဲခြင်း | `burmese-episodes/0301-0400/0301.md` |
+| 302 | Chapter 302 | Completed | နှင်းဖုံးလွှမ်းသော သွေးရောင်လမင်းနှင့် တောင်တန်းမည်း | `burmese-episodes/0301-0400/0302.md` |
+| 303 | Chapter 303 | Completed | ငါ့တပည့်ကို တိုက်ခိုက်ရဲတဲ့သူ ဘယ်သူလဲ! | `burmese-episodes/0301-0400/0303.md` |
+| 304 | Chapter 304 | Completed | နှိုးကြားခြင်းအဆင့်၏ နှောင်းပိုင်းအဆင့် | `burmese-episodes/0301-0400/0304.md` |
+| 305 | Chapter 305 | Completed | ပင်လယ်ကြမ်းပြင်၌ ကျင်းပသော လေလံပွဲ | `burmese-episodes/0301-0400/0305.md` |
+| 306 | Chapter 306 | Completed | မြက်ခြောက်ဂျိုးငှက် | `burmese-episodes/0301-0400/0306.md` |
+| 307 | Chapter 307 | Completed | ကျောက်ပြားဒင်္ဂါး သန်းတစ်ရာ | `burmese-episodes/0301-0400/0307.md` |
+| 308 | Chapter 308 | Completed | ဘာဆာကာနတ်ဘုရား သီချင်းတော် | `burmese-episodes/0301-0400/0308.md` |
+| 309 | Chapter 309 | Completed | ကံကြမ္မာ၏ မီးဖိုကြီး | `burmese-episodes/0301-0400/0309.md` |
+| 310 | Chapter 310 | Completed | ကျောက်တုံးအတွင်းရှိ စိတ်ဝိညာဉ် | `burmese-episodes/0301-0400/0310.md` |
+| 311 | Chapter 311 | Completed | ကျောက်တုံးထဲမှ ဝိညာဉ် | `burmese-episodes/0301-0400/0311.md` |
+| 312 | Chapter 312 | Completed | သက်ရှိအရာတစ်ခု | `burmese-episodes/0301-0400/0312.md` |
+| 313 | Chapter 313 | Completed | ၎င်းသည် မျောက်တစ်ကောင် ဖြစ်သည်! | `burmese-episodes/0301-0400/0313.md` |
+| 314 | Chapter 314 | Completed | ထျန်းရှဲ့ဇီ၏ တပည့် | `burmese-episodes/0301-0400/0314.md` |
+| 315 | Chapter 315 | Completed | စိတ်ချင်းဆက်သွယ်ခြင်း | `burmese-episodes/0301-0400/0315.md` |
+| 316 | Chapter 316 | Completed | ရှောင်ဟုန်၏အကြောင်း | `burmese-episodes/0301-0400/0316.md` |
+| 317 | Chapter 317 | Completed | မီးမျောက်၏ ပြောင်းလဲမှု | `burmese-episodes/0301-0400/0317.md` |
+| 318 | Chapter 318 | Completed | ဒုတိယမြောက် နောင်တော်ကြီး၏ မြက်ပင်ကလေး | `burmese-episodes/0301-0400/0318.md` |
+| 319 | Chapter 319 | Completed | လကြွေကြယ် ကိုးစင်း | `burmese-episodes/0301-0400/0319.md` |
+| 320 | Chapter 320 | Completed | မိုးကောင်းကင်မြူခိုး စစ်တံဆိပ် | `burmese-episodes/0301-0400/0320.md` |
+| 321 | Chapter 321 | Completed | ရှာမန်အမဲလိုက်ပွဲ | `burmese-episodes/0301-0400/0321.md` |
+| 322 | Chapter 322 | Completed | စစ်မြေပြင်သို့ ချီတက်ခြင်း | `burmese-episodes/0301-0400/0322.md` |
+| 323 | Chapter 323 | Completed | အရှေ့ဘက်လွင်ပြင်ကပ်ဘေး | `burmese-episodes/0301-0400/0323.md` |
+| 324 | Chapter 324 | Completed | လမ်းညွှန်ပြသခြင်း | `burmese-episodes/0301-0400/0324.md` |
+| 325 | Chapter 325 | Completed | လေပြင်းကို ရင်ဆိုင်ခြင်း | `burmese-episodes/0301-0400/0325.md` |
+| 326 | Chapter 326 | Completed | ရွှန်းတူရိယာ ပြင်ဆင်သူ | `burmese-episodes/0301-0400/0326.md` |
+| 327 | Chapter 327 | Completed | ရွှန်းဝိညာဉ် မရှိတော့ခြင်း | `burmese-episodes/0301-0400/0327.md` |
+| 328 | Chapter 328 | Completed | ရွှန်းတူရိယာ မှုတ်ခြင်း | `burmese-episodes/0301-0400/0328.md` |
+| 329 | Chapter 329 | Completed | ဖာကျန်း၏ ခန္ဓာကိုယ် | `burmese-episodes/0301-0400/0329.md` |
+| 330 | Chapter 330 | Completed | နှစ်တစ်ထောင် သတ်မှတ်ချက် | `burmese-episodes/0301-0400/0330.md` |
+| 331 | Chapter 331 | Completed | ငါက မော့စုပဲ | `burmese-episodes/0301-0400/0331.md` |
+| 332 | Chapter 332 | Completed | ရှာမန်တို့၏ အဆင့်အတန်းများ | `burmese-episodes/0301-0400/0332.md` |
+| 333 | Chapter 333 | Completed | ယာခယ် | `burmese-episodes/0301-0400/0333.md` |
+| 334 | Chapter 334 | Completed | ဖယောင်းတိုင်နဂါး၏ မျက်လုံးများ | `burmese-episodes/0301-0400/0334.md` |
+| 335 | Chapter 335 | Completed | ဆေးဖော်စပ်ခြင်း | `burmese-episodes/0301-0400/0335.md` |
+| 336 | Chapter 336 | Completed | မော့စု၏ ရက်စက်မှု | `burmese-episodes/0301-0400/0336.md` |
+| 337 | Chapter 337 | Completed | ကြီးကျယ်ခမ်းနားလှသော စစ်တလင်း | `burmese-episodes/0301-0400/0337.md` |
+| 338 | Chapter 338 | Completed | နတ်ဘုရားစစ်သူကြီးချပ်ဝတ် | `burmese-episodes/0301-0400/0338.md` |
+| 339 | Chapter 339 | Completed | စစ်တလင်းအတွင်း သတ်ဖြတ်ခြင်း | `burmese-episodes/0301-0400/0339.md` |
+| 340 | Chapter 340 | Completed | ရွှေ့ပြောင်းခြင်းတံခါးပေါက် ခုနစ်ခု | `burmese-episodes/0301-0400/0340.md` |
+| 341 | Chapter 341 | Completed | ဝိညာဉ်ဗိုလ်ချုပ်ကြီး ရှန်းဟွာ | `burmese-episodes/0301-0400/0341.md` |
+| 342 | Chapter 342 | Completed | ငါတို့လည်း လှည့်စားတတ်တယ် | `burmese-episodes/0301-0400/0342.md` |
+| 343 | Chapter 343 | Completed | ညဉ့်နက်စစ်သည်တော် | `burmese-episodes/0301-0400/0343.md` |
+| 344 | Chapter 344 | Completed | ဇီချယ် | `burmese-episodes/0301-0400/0344.md` |
+| 345 | Chapter 345 | Completed | ဘာဆာကာမုဆိုး | `burmese-episodes/0301-0400/0345.md` |
+| 346 | Chapter 346 | Completed | ငါ့ရဲ့ ကျင့်ဝတ်စည်းကမ်း | `burmese-episodes/0301-0400/0346.md` |
+| 347 | Chapter 347 | Completed | လမ်းကျဉ်းပေါ်က တွေ့ဆုံမှု | `burmese-episodes/0301-0400/0347.md` |
+| 348 | Chapter 348 | Completed | ရဲဝံ့သူက အနိုင်ရလိမ့်မည် | `burmese-episodes/0301-0400/0348.md` |
+| 349 | Chapter 349 | Completed | ရဲဘော်ရဲဘက် | `burmese-episodes/0301-0400/0349.md` |
+| 350 | Chapter 350 | Completed | ပြသမှုတစ်ခု | `burmese-episodes/0301-0400/0350.md` |
