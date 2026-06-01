@@ -1,4 +1,4 @@
 # Pursuit of the Truth - Translation Progress Tracker
 
-Finished episodes - 900
+Finished episodes - 930
 total episodes - 1481
