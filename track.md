@@ -636,3 +636,103 @@ This file tracks the translation progress from English to Burmese for Chapters 1
 | 630 | Chapter 630 | Completed | သနားစဖွယ် ပုရွက်ဆိတ်များ | `burmese-episodes/0601-0700/0630.md` |
 | 631 | Chapter 631 | Completed | အကြည့်တစ်ချက်၏ အစွမ်း | `burmese-episodes/0601-0700/0631.md` |
 | 632 | Chapter 632 | Completed | ရူးနစ်သင်္ကေတ ရှစ်ခု | `burmese-episodes/0601-0700/0632.md` |
+| 701 | Chapter 701 | Completed | သိုးဝတုတ်ကြီးများ (Fat Lambs) | `burmese-episodes/0701-0800/0701.md` |
+| 702 | Chapter 702 | Completed | ကျင့်ကြံခြင်းလမ်းစဉ် (The Path of Cultivation) | `burmese-episodes/0701-0800/0702.md` |
+| 703 | Chapter 703 | Completed | ကိုးခုမြောက်အလွှာ (The Ninth Layer) | `burmese-episodes/0701-0800/0703.md` |
+| 704 | Chapter 704 | Completed | တောင်တစ်လုံး၊ မြစ်တစ်စင်း၊ ကန္တာရတစ်ခု (One Mountain, One River, One Desert) | `burmese-episodes/0701-0800/0704.md` |
+| 705 | Chapter 705 | Completed | သွေးနီရောင် ကိုးခုမြောက်အလင်းဝိုင်း (The Blood-Red Ninth Light Circle) | `burmese-episodes/0701-0800/0705.md` |
+| 706 | Chapter 706 | Completed | အဘစ်စ်နိုးထခြင်း (Abyss' Awakening) | `burmese-episodes/0701-0800/0706.md` |
+| 707 | Chapter 707 | Completed | သွေးနီရောင် ကောင်းကင်ယံ (The Blood-Red Sky) | `burmese-episodes/0701-0800/0707.md` |
+| 708 | Chapter 708 | Completed | မိုးတိမ်မြူခိုးဂိုဏ်းအား တိုက်ခိုက်ခြင်း (Attacking Sky Mist Dao) | `burmese-episodes/0701-0800/0708.md` |
+| 709 | Chapter 709 | Completed | သွေးအကြွေး (Blood Debt) | `burmese-episodes/0701-0800/0709.md` |
+| 710 | Chapter 710 | Completed | ရာသီလေးပါး ပျက်သုဉ်းခြင်း (Four Seasons' Destruction) | `burmese-episodes/0701-0800/0710.md` |
+| 711 | Chapter 711 | Completed | လျှို့ဝှက်နဂါးဂိုဏ်းကို ဖျက်ဆီးခြင်း | `burmese-episodes/0701-0800/0711.md` |
+| 712 | Chapter 712 | Completed | လက်ထဲတွင်မကိုင်ဆောင်ထားသော ဓား | `burmese-episodes/0701-0800/0712.md` |
+| 713 | Chapter 713 | Completed | ဓားဝှေ့ယမ်းခြင်းပုံစံ လေးမျိုး | `burmese-episodes/0701-0800/0713.md` |
+| 714 | Chapter 714 | Completed | အေးခဲခြင်းနှင့် ကွဲကြေခြင်း | `burmese-episodes/0701-0800/0714.md` |
+| 715 | Chapter 715 | Completed | အငယ်ဆုံး စီနီယာညီလေး | `burmese-episodes/0701-0800/0715.md` |
+| 716 | Chapter 716 | Completed | ငါတို့ အတူတူ သွားကြစို့ | `burmese-episodes/0701-0800/0716.md` |
+| 717 | Chapter 717 | Completed | ညီအစ်ကိုချင်း သံယောဇဉ် | `burmese-episodes/0701-0800/0717.md` |
+| 718 | Chapter 718 | Completed | ငါ မင်းနောက် လိုက်နေတာ မဟုတ်ဘူး | `burmese-episodes/0701-0800/0718.md` |
+| 719 | Chapter 719 | Completed | စစ်မှန်သော မဟာကမ္ဘာကြီး လေးခု | `burmese-episodes/0701-0800/0719.md` |
+| 720 | Chapter 720 | Completed | မင်းရဲ့ ဆံပင်တစ်ပင်ကို ပေးပါဦး | `burmese-episodes/0701-0800/0720.md` |
+| 721 | Chapter 721 | Completed | ဆုမင်၏ နူးညံ့သိမ်မွေ့မှု | `burmese-episodes/0701-0800/0721.md` |
+| 722 | Chapter 722 | Completed | နှလုံးသားထဲက အကာအရံ | `burmese-episodes/0701-0800/0722.md` |
+| 723 | Chapter 723 | Completed | ယောက်ျားတစ်ယောက်နှင့် မိန်းမတစ်ယောက် တိုက်ခိုက်ခြင်း | `burmese-episodes/0701-0800/0723.md` |
+| 724 | Chapter 724 | Completed | မူဝါဒများနှင့် နောက်ဆုံးစည်းများ | `burmese-episodes/0701-0800/0724.md` |
+| 725 | Chapter 725 | Completed | နံနက်ခင်းတာအိုဂိုဏ်း | `burmese-episodes/0701-0800/0725.md` |
+| 726 | Chapter 726 | Completed | ငါတို့က မိသားစုဝင်တွေပဲ | `burmese-episodes/0701-0800/0726.md` |
+| 727 | Chapter 727 | Completed | ငါတို့ နှိုးကြစို့ | `burmese-episodes/0701-0800/0727.md` |
+| 728 | Chapter 728 | Completed | ငါတို့က လုယက်ဖို့ လာတာ | `burmese-episodes/0701-0800/0728.md` |
+| 729 | Chapter 729 | Completed | ကိုးကြိမ်သေခြင်းအတတ် | `burmese-episodes/0701-0800/0729.md` |
+| 730 | Chapter 730 | Completed | ကိုးကြိမ်သေဆုံးခြင်း ကံကြမ္မာ | `burmese-episodes/0701-0800/0730.md` |
+| 731 | Chapter 731 | Completed | ဒါဆို အသက်ဇီဝကံကြမ္မာကို ဒီလိုမျိုး အသုံးပြုလို့ ရတာကိုး | `burmese-episodes/0701-0800/0731.md` |
+| 732 | Chapter 732 | Completed | အသက်ဇီဝ၏ လမ်းစဉ် | `burmese-episodes/0701-0800/0732.md` |
+| 733 | Chapter 733 | Completed | စုမင်၏ ကာကွယ်စောင့်ရှောက်မှု | `burmese-episodes/0701-0800/0733.md` |
+| 734 | Chapter 734 | Completed | ဒါအိုယွမ်၏ ရောက်ရှိလာခြင်း | `burmese-episodes/0701-0800/0734.md` |
+| 735 | Chapter 735 | Completed | စုမင်၏ ရွေးချယ်မှု | `burmese-episodes/0701-0800/0735.md` |
+| 736 | Chapter 736 | Completed | အသေခံတိုက်ပွဲ | `burmese-episodes/0701-0800/0736.md` |
+| 737 | Chapter 737 | Completed | ဂျီမော့ လံှတော်၏ ပေါက်ကွဲခြင်း | `burmese-episodes/0701-0800/0737.md` |
+| 738 | Chapter 738 | Completed | စံဒယ်နဂါးအသွင်ပြောင်းခြင်း | `burmese-episodes/0701-0800/0738.md` |
+| 739 | Chapter 739 | Completed | ဘာဆာကာနတ်ဘုရား ရုပ်ထုကြီး ပျက်စီးခြင်း | `burmese-episodes/0701-0800/0739.md` |
+| 740 | Chapter 740 | Completed | ကျေးဇူးတရားကို ပြန်ဆပ်ခြင်း | `burmese-episodes/0701-0800/0740.md` |
+| 741 | Chapter 741 | Completed | နိုးထခြင်းနှင့် စည်းတံဆိပ်များ ပျက်ပြယ်ခြင်း | `burmese-episodes/0701-0800/0741.md` |
+| 742 | Chapter 742 | Completed | ကောင်းကင်ယံကို လွှမ်းမိုးသော ကြယ်တာရာများ | `burmese-episodes/0701-0800/0742.md` |
+| 743 | Chapter 743 | Completed | ဆောင်းဦးရာသီ၏ စိတ်ဆန္ဒ | `burmese-episodes/0701-0800/0743.md` |
+| 744 | Chapter 744 | Completed | ယင်သေမင်း၏ကလေး | `burmese-episodes/0701-0800/0744.md` |
+| 745 | Chapter 745 | Completed | ယင်သေမင်း၏ကလေး | `burmese-episodes/0701-0800/0745.md` |
+| 746 | Chapter 746 | Completed | ဘဝသည် ပထမဆုံးတွေ့ဆုံမှုကဲ့သို့သာ အမြဲတစေ လှပနေခဲ့မည်ဆိုလျှင် | `burmese-episodes/0701-0800/0746.md` |
+| 747 | Chapter 747 | Completed | အပိုင်း ၄ - မြင့်မြတ်သောအနှစ်သာရ ကန္တာရလွင်ပြင်၌ တန်ခိုးအာဏာ ကြီးထွားလာခြင်း | `burmese-episodes/0701-0800/0747.md` |
+| 748 | Chapter 748 | Completed | ပူဇော်သက္ကာ | `burmese-episodes/0701-0800/0748.md` |
+| 749 | Chapter 749 | Completed | အဘစ်စ်ကို တည်ဆောက်ခြင်း | `burmese-episodes/0701-0800/0749.md` |
+| 750 | Chapter 750 | Completed | ကြက်သွေးရောင် မြွေဖီးနစ် | `burmese-episodes/0701-0800/0750.md` |
+| 751 | Chapter 751 | Completed | ခရမ်ဆင်မီးလျှံဂြိုဟ် | `burmese-episodes/0701-0800/0751.md` |
+| 752 | Chapter 752 | Completed | စစ်ဆေးခြင်း | `burmese-episodes/0701-0800/0752.md` |
+| 753 | Chapter 753 | Completed | ကြက်သွေးရောင်မီးတောက်ဂြိုဟ်၏ ဘေးဒဏ် | `burmese-episodes/0701-0800/0753.md` |
+| 754 | Chapter 754 | Completed | အန္တရာယ်ကြီးလှသော လောင်းကစားပွဲ | `burmese-episodes/0701-0800/0754.md` |
+| 755 | Chapter 755 | Completed | လောင်ကျွမ်းနေသော တောင်ကုန်း | `burmese-episodes/0701-0800/0755.md` |
+| 756 | Chapter 756 | Completed | ထိပ်ပြောင်ဗျိုင်းကလေး၏ ဆုလာဘ် | `burmese-episodes/0701-0800/0756.md` |
+| 757 | Chapter 757 | Completed | ထူးဆန်းသော သေဆုံးခြင်း | `burmese-episodes/0701-0800/0757.md` |
+| 758 | Chapter 758 | Completed | သတ်ဖြတ်လိုသော ဆန္ဒ | `burmese-episodes/0701-0800/0758.md` |
+| 759 | Chapter 759 | Completed | ရူးသွပ်သော သတ်ဖြတ်မှု | `burmese-episodes/0701-0800/0759.md` |
+| 760 | Chapter 760 | Completed | ထာဝရ | `burmese-episodes/0701-0800/0760.md` |
+| 761 | Chapter 761 | Completed | တတိယမြောက် နှလုံးသားအပြောင်းအလဲ | `burmese-episodes/0701-0800/0761.md` |
+| 762 | Chapter 762 | Completed | နာကျင်မှုကို ရွေးချယ်ခြင်း | `burmese-episodes/0701-0800/0762.md` |
+| 763 | Chapter 763 | Completed | နယ်စားမင်း၏ တံဆိပ်ခတ်နှိပ်မှု | `burmese-episodes/0701-0800/0763.md` |
+| 764 | Chapter 764 | Completed | စုစည်းခြင်း | `burmese-episodes/0701-0800/0764.md` |
+| 765 | Chapter 765 | Completed | တစ်ဖန်ပြန်လည်နိုးထလာခြင်း | `burmese-episodes/0701-0800/0765.md` |
+| 766 | Chapter 766 | Completed | စမ်းသပ်မှု | `burmese-episodes/0701-0800/0766.md` |
+| 767 | Chapter 767 | Completed | တံခါးကျင် ဆယ်ခု | `burmese-episodes/0701-0800/0767.md` |
+| 768 | Chapter 768 | Completed | မလွှဲမရှောင်သာ အခြေအနေ | `burmese-episodes/0701-0800/0768.md` |
+| 769 | Chapter 769 | Completed | ရက်စက်လှသော တုံ့ပြန်မှု | `burmese-episodes/0701-0800/0769.md` |
+| 770 | Chapter 770 | Completed | ဝိညာဉ်ကျော့ဖမ်းသူ | `burmese-episodes/0701-0800/0770.md` |
+| 771 | Chapter 771 | Completed | ကိုယ်စီ အကြံစည်များ | `burmese-episodes/0701-0800/0771.md` |
+| 772 | Chapter 772 | Completed | ခိုးယူခြင်း | `burmese-episodes/0701-0800/0772.md` |
+| 773 | Chapter 773 | Completed | တံဆိပ်ခတ်နှိပ်မှု ပျက်စီးခြင်း | `burmese-episodes/0701-0800/0773.md` |
+| 774 | Chapter 774 | Completed | နတ်ဘုရားသတ်ဖြတ်သည့် ဘူးသီးခြောက်ဘူး | `burmese-episodes/0701-0800/0774.md` |
+| 775 | Chapter 775 | Completed | ကျင်းနန်ဇီ | `burmese-episodes/0701-0800/0775.md` |
+| 776 | Chapter 776 | Completed | ကျင်းနန်ဇီ ဆင်းသက်လာခြင်း | `burmese-episodes/0701-0800/0776.md` |
+| 777 | Chapter 777 | Completed | အဖိုးတန်ဘူးသီးခြောက်... ကျေးဇူးပြုပြီး သူ့ကို သတ်ပေးပါဦး | `burmese-episodes/0701-0800/0777.md` |
+| 778 | Chapter 778 | Completed | ကြက်သွေးရောင်မီးလျှံနယ်စားမင်းရှိရာသို့ | `burmese-episodes/0701-0800/0778.md` |
+| 779 | Chapter 779 | Completed | ပဉ္စမမြောက် အဘစ်စ်ပဋိညာဉ် | `burmese-episodes/0701-0800/0779.md` |
+| 780 | Chapter 780 | Completed | အစ်ကိုကြီး | `burmese-episodes/0701-0800/0780.md` |
+| 781 | Chapter 781 | Completed | နှလုံးသား၏ ဒဏ်ရာ | `burmese-episodes/0701-0800/0781.md` |
+| 782 | Chapter 782 | Completed | ကစားပွဲ ပြီးဆုံးသွားပြီ | `burmese-episodes/0701-0800/0782.md` |
+| 783 | Chapter 783 | Completed | ဓားကို ဆွဲနှုတ်ခြင်း | `burmese-episodes/0701-0800/0783.md` |
+| 784 | Chapter 784 | Completed | အာသာဆန္ဒ | `burmese-episodes/0701-0800/0784.md` |
+| 785 | Chapter 785 | Completed | အဘစ်စ်ပဋိညာဉ် | `burmese-episodes/0701-0800/0785.md` |
+| 786 | Chapter 786 | Completed | အသက်ဇီဝကမ္ဘာမြေပြင်၏ လျှို့ဝှက်ချက် | `burmese-episodes/0701-0800/0786.md` |
+| 787 | Chapter 787 | Completed | ကမ္ဘာ့အာသာဆန္ဒ မဟာပညာရပ် | `burmese-episodes/0701-0800/0787.md` |
+| 788 | Chapter 788 | Completed | သွေးခွဲခြားသတ်မှတ်ရေးပုတီးစေ့ တောက်ပလာခြင်း | `burmese-episodes/0701-0800/0788.md` |
+| 789 | Chapter 789 | Completed | အသက်ဇီဝကမ္ဘာမြေပြင်၏ သတ်ဖြတ်ခြင်း | `burmese-episodes/0701-0800/0789.md` |
+| 790 | Chapter 790 | Completed | အလိုရှိခြင်းခံရသော ရာဇဝတ်ကောင် | `burmese-episodes/0701-0800/0790.md` |
+| 791 | Chapter 791 | Completed | ဆောင်းဦး၏ အရောင် | `burmese-episodes/0701-0800/0791.md` |
+| 792 | Chapter 792 | Completed | မိုစု | `burmese-episodes/0701-0800/0792.md` |
+| 793 | Chapter 793 | Completed | ကောင်းကင်ရတနာဂြိုဟ် | `burmese-episodes/0701-0800/0793.md` |
+| 794 | Chapter 794 | Completed | သတ်ဖြတ်ခြင်း၏ အစပြုရာ | `burmese-episodes/0701-0800/0794.md` |
+| 795 | Chapter 795 | Completed | မုဆိုးနှင့် သားကောင် | `burmese-episodes/0701-0800/0795.md` |
+| 796 | Chapter 796 | Completed | ငါ့နာမည် မိုစု | `burmese-episodes/0701-0800/0796.md` |
+| 797 | Chapter 797 | Completed | မဟာစစ်မှန်သောကမ္ဘာကြီးလေးခု ရောက်ရှိလာခြင်း | `burmese-episodes/0701-0800/0797.md` |
+| 798 | Chapter 798 | Completed | မြေပြင်ကျောက်စာအတတ်ပညာ | `burmese-episodes/0701-0800/0798.md` |
+| 799 | Chapter 799 | Completed | နာမည်ကျော်ကြားလာခြင်း | `burmese-episodes/0701-0800/0799.md` |
+| 800 | Chapter 800 | Completed | ကံကြမ္မာ၏ ချည်မျှင်လေးများ | `burmese-episodes/0701-0800/0800.md` |
