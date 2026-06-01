@@ -636,14 +636,3 @@ This file tracks the translation progress from English to Burmese for Chapters 1
 | 630 | Chapter 630 | Completed | သနားစဖွယ် ပုရွက်ဆိတ်များ | `burmese-episodes/0601-0700/0630.md` |
 | 631 | Chapter 631 | Completed | အကြည့်တစ်ချက်၏ အစွမ်း | `burmese-episodes/0601-0700/0631.md` |
 | 632 | Chapter 632 | Completed | ရူးနစ်သင်္ကေတ ရှစ်ခု | `burmese-episodes/0601-0700/0632.md` |
-| 633 | Chapter 633 | Completed | ရာသီများကို ပြောင်းပြန်လှန်ခြင်း | `burmese-episodes/0601-0700/0633.md` |
-| 634 | Chapter 634 | Completed | ဆန်ရှန်း၏ အကြံအစည် | `burmese-episodes/0601-0700/0634.md` |
-| 635 | Chapter 635 | Completed | ဝိညာဉ်ဦးကင်း ဆင်းသက်ခြင်း | `burmese-episodes/0601-0700/0635.md` |
-| 636 | Chapter 636 | Completed | တရားစီရင်မှု၏ လျှို့ဝက်ကွပ်မျက်ခြင်းနှင့် တောက်ပသောယန်ကျောက်တုံး | `burmese-episodes/0601-0700/0636.md` |
-| 637 | Chapter 637 | Completed | တောက်ပသောယန်ကျောက်တုံးနှင့် ပေါင်းစပ်ခြင်း | `burmese-episodes/0601-0700/0637.md` |
-| 638 | Chapter 638 | Completed | ဝိညာဉ်သွေးကြောကို ဝါးမြိုခြင်း | `burmese-episodes/0601-0700/0638.md` |
-| 639 | Chapter 639 | Completed | ဒီထျန်းကို သတ်မည် | `burmese-episodes/0601-0700/0639.md` |
-| 640 | Chapter 640 | Completed | ဒီထျန်း၏ ကိုယ်ပွားနှစ်ခု | `burmese-episodes/0601-0700/0640.md` |
-| 641 | Chapter 641 | Completed | မြက်ပင်ထုံးရုပ်သေးအတတ် | `burmese-episodes/0601-0700/0641.md` |
-| 642 | Chapter 642 | Completed | မိစ္ဆာဂိုဏ်းနှင့် နတ်ဂိုဏ်းများ | `burmese-episodes/0601-0700/0642.md` |
-| 643 | Chapter 643 | Completed | အရှေ့ဘက်ကန္တာရ စစ်မြေပြင် | `burmese-episodes/0601-0700/0643.md` |
