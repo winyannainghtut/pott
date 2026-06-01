@@ -404,3 +404,123 @@ This file tracks the translation progress from English to Burmese for Chapters 1
 | 398 | Chapter 398 | Completed | သန့်ရှင်းသော ဝိညာဉ်ရတနာ၏ ဖိနှိပ်ခြင်း! | `burmese-episodes/0301-0400/0398.md` |
 | 399 | Chapter 399 | Completed | ဒီထျန်း ရောက်ရှိလာခြင်း! | `burmese-episodes/0301-0400/0399.md` |
 | 400 | Chapter 400 | Completed | ကောင်းကင်ပြင် ပြိုကွဲခြင်း! | `burmese-episodes/0301-0400/0400.md` |
+| 481 | Chapter 481 | Completed | ဘာတွေ ဖြစ်ပျက်ခဲ့သနည်း | `burmese-episodes/0401-0500/0481.md` |
+| 482 | Chapter 482 | Completed | မြင့်မြတ်သော လင်းနို့များ | `burmese-episodes/0401-0500/0482.md` |
+| 483 | Chapter 483 | Completed | ကံကြမ္မာတူအနွယ်ဝင်များ | `burmese-episodes/0401-0500/0483.md` |
+| 484 | Chapter 484 | Completed | ငါကလည်း အပြင်လူတစ်ယောက်ပဲ | `burmese-episodes/0401-0500/0484.md` |
+| 485 | Chapter 485 | Completed | မင်းက မော့စုပဲ | `burmese-episodes/0401-0500/0485.md` |
+| 486 | Chapter 486 | Completed | သူတို့အားလုံးကို သတ်ပစ်စမ်း | `burmese-episodes/0401-0500/0486.md` |
+| 487 | Chapter 487 | Completed | မီးတောက်ဘာဆာကာ! | `burmese-episodes/0401-0500/0487.md` |
+| 488 | Chapter 488 | Completed | ကံကြမ္မာတူအနွယ်ဝင်များ | `burmese-episodes/0401-0500/0488.md` |
+| 489 | Chapter 489 | Completed | ပြန်လာတာကို ကြိုဆိုပါတယ် | `burmese-episodes/0401-0500/0489.md` |
+| 490 | Chapter 490 | Completed | မင်း ဘာလို့ ငါ့ကို ကံကြမ္မာလို့ အမြဲခေါ်နေရတာလဲ | `burmese-episodes/0401-0500/0490.md` |
+| 491 | Chapter 491 | Completed | ငါ့ရဲ့အိမ်က ဘယ်မှာလဲ | `burmese-episodes/0401-0500/0491.md` |
+| 492 | Chapter 492 | Completed | ငါ့ဆီ ပြန်လာစမ်း အဆိပ်အလောင်း | `burmese-episodes/0401-0500/0492.md` |
+| 493 | Chapter 493 | Completed | ငါက စုမင်ပဲ! | `burmese-episodes/0401-0500/0493.md` |
+| 494 | Chapter 494 | Completed | လမင်းသင်္ဂြိုဟ်ခြင်း | `burmese-episodes/0401-0500/0494.md` |
+| 495 | Chapter 495 | Completed | ကံကြမ္မာ၏ ပထမဆုံးပေါင်းစပ်ခြင်း | `burmese-episodes/0401-0500/0495.md` |
+| 496 | Chapter 496 | Completed | မင်းကော ဘာလို့ ဒီကို ရောက်နေတာလဲ | `burmese-episodes/0401-0500/0496.md` |
+| 497 | Chapter 497 | Completed | ငါက... သေဆုံးနေတာလား | `burmese-episodes/0401-0500/0497.md` |
+| 498 | Chapter 498 | Completed | လီဆန်းတောင်စဉ် | `burmese-episodes/0401-0500/0498.md` |
+| 499 | Chapter 499 | Completed | တတိယမြောက် ဘာဆာကာနတ်ဘုရား လီရှန်းဟော့ | `burmese-episodes/0401-0500/0499.md` |
+| 500 | Chapter 500 | Completed | မှန်ထဲက ကမ္ဘာ | `burmese-episodes/0401-0500/0500.md` |
+| 401 | Chapter 401 | Completed | ကောင်းကင်ဘုံ၏ ပြစ်ဒဏ် | `burmese-episodes/0401-0500/0401.md` |
+| 402 | Chapter 402 | Completed | ခြောက်ဆင့်နှင့် ခုနစ်ဆင့် ပြစ်ဒဏ် | `burmese-episodes/0401-0500/0402.md` |
+| 403 | Chapter 403 | Completed | ဘိုးဘေး ဟုန်လော့၏ နိုးထခြင်း | `burmese-episodes/0401-0500/0403.md` |
+| 404 | Chapter 404 | Completed | ညီမလေး၊ မင်း နေကောင်းရဲ့လား | `burmese-episodes/0401-0500/0404.md` |
+| 405 | Chapter 405 | Completed | ဟင်းလင်းပြင်တံခါးပေါက် ပေါ်ပေါက်လာခြင်း | `burmese-episodes/0401-0500/0405.md` |
+| 406 | Chapter 406 | Completed | ဒုတိယပိုင်း ပြီးဆုံးခြင်း | `burmese-episodes/0401-0500/0406.md` |
+| 407 | Chapter 407 | Completed | အပိုင်းသုံး - အရှေ့ဘက်ကန္တာရလွင်ပြင်တွင် ကျော်ကြားလာသော သူ၏နာမည် | `burmese-episodes/0401-0500/0407.md` |
+| 408 | Chapter 408 | Completed | သစ္စာရှိသော မြွေနက်လေး | `burmese-episodes/0401-0500/0408.md` |
+| 409 | Chapter 409 | Completed | ပြန်လည်သုံးသပ်ခြင်းနှင့် ကျင့်ကြံဆင့် နှိုင်းယှဉ်ချက် | `burmese-episodes/0401-0500/0409.md` |
+| 410 | Chapter 410 | Completed | ဝိညာဉ်သုံးပါးနှင့် သက်စောင့်ခုနစ်ပါး | `burmese-episodes/0401-0500/0410.md` |
+| 411 | Chapter 411 | Completed | ညီအစ်ကို… အေးအေးဆေးဆေး ဆွေးနွေးကြရအောင်လေ… | `burmese-episodes/0401-0500/0411.md` |
+| 412 | Chapter 412 | Completed | ကောင်းကင်တာအို၏ မြင့်မြတ်သောသားရဲ | `burmese-episodes/0401-0500/0412.md` |
+| 413 | Chapter 413 | Completed | အရိုးထဲတွင် အမွေအနှစ်ကို စိုက်ပျိုးခြင်း | `burmese-episodes/0401-0500/0413.md` |
+| 414 | Chapter 414 | Completed | လေမင်းဘာဆာကာ | `burmese-episodes/0401-0500/0414.md` |
+| 415 | Chapter 415 | Completed | ခေါင်းသုံးလုံးပါသော မည်းနက်သည့် လိပ်ကြီး | `burmese-episodes/0401-0500/0415.md` |
+| 416 | Chapter 416 | Completed | ဧရာမ သစ်သားတုတ်နက်ကြီး | `burmese-episodes/0401-0500/0416.md` |
+| 417 | Chapter 417 | Completed | ကိုးခုမြောက်ယင်ကမ္ဘာ | `burmese-episodes/0401-0500/0417.md` |
+| 418 | Chapter 418 | Completed | ကျောက်တုံးမည်း အပိုင်းအစသစ် | `burmese-episodes/0401-0500/0418.md` |
+| 419 | Chapter 419 | Completed | ဝိညာဉ်လ ရောက်ရှိလာခြင်း | `burmese-episodes/0401-0500/0419.md` |
+| 420 | Chapter 420 | Completed | ကိုးခုမြောက်ယင်ကမ္ဘာ | `burmese-episodes/0401-0500/0420.md` |
+| 421 | Chapter 421 | Completed | The Strange Forest | `burmese-episodes/0401-0500/0421.md` |
+| 422 | Chapter 422 | Completed | Encounter with Nan Gong Hen | `burmese-episodes/0401-0500/0422.md` |
+| 423 | Chapter 423 | Completed | Devouring Space | `burmese-episodes/0401-0500/0423.md` |
+| 424 | Chapter 424 | Completed | Shaman City | `burmese-episodes/0401-0500/0424.md` |
+| 425 | Chapter 425 | Completed | The Legends of Su Ming in Shaman Territory | `burmese-episodes/0401-0500/0425.md` |
+| 426 | Chapter 426 | Completed | Erasing Memories and An Incident | `burmese-episodes/0401-0500/0426.md` |
+| 427 | Chapter 427 | Completed | The Ninth Summit's Principle | `burmese-episodes/0401-0500/0427.md` |
+| 428 | Chapter 428 | Completed | The Clash and Consequences | `burmese-episodes/0401-0500/0428.md` |
+| 429 | Chapter 429 | Completed | Breaking the Protection Screen | `burmese-episodes/0401-0500/0429.md` |
+| 430 | Chapter 430 | Completed | Battle with Latter Shaman Tie Mu | `burmese-episodes/0401-0500/0430.md` |
+| 431 | Chapter 431 | Completed | Nine Transformations Divine Art | `burmese-episodes/0401-0500/0431.md` |
+| 432 | Chapter 432 | Completed | The Tie with Latter Shaman | `burmese-episodes/0401-0500/0432.md` |
+| 433 | Chapter 433 | Completed | ကိုးယင်ဝိညာဉ် | `burmese-episodes/0401-0500/0433.md` |
+| 434 | Chapter 434 | Completed | လွင့်ပျံဖုန်မှုန့် | `burmese-episodes/0401-0500/0434.md` |
+| 435 | Chapter 435 | Completed | တန်ဖိုး | `burmese-episodes/0401-0500/0435.md` |
+| 436 | Chapter 436 | Completed | လီဟော့ | `burmese-episodes/0401-0500/0436.md` |
+| 437 | Chapter 437 | Completed | ရောင်းရင်းဟောင်း | `burmese-episodes/0401-0500/0437.md` |
+| 438 | Chapter 438 | Completed | ရတနာ လောင်းကစားပွဲ | `burmese-episodes/0401-0500/0438.md` |
+| 439 | Chapter 439 | Completed | ကိုးရှာမန်မဏ္ဍပ် | `burmese-episodes/0401-0500/0439.md` |
+| 440 | Chapter 440 | Completed | လျှို့ဝှက်ဆန်းကြယ်သော အနံ့ | `burmese-episodes/0401-0500/0440.md` |
+| 441 | Chapter 441 | Completed | လွင့်ပျံဖုန်မှုန့် ဆေးလုံး | `burmese-episodes/0401-0500/0441.md` |
+| 442 | Chapter 442 | Completed | ကြက်သွေးရောင် ကျောက်တုံးထဲမှ အရာ | `burmese-episodes/0401-0500/0442.md` |
+| 443 | Chapter 443 | Completed | ရတနာလောင်းကစားပွဲ မတိုင်မီည | `burmese-episodes/0401-0500/0443.md` |
+| 444 | Chapter 444 | Completed | စတင်ခြင်း | `burmese-episodes/0401-0500/0444.md` |
+| 445 | Chapter 445 | Completed | သဘာဝမကျသော အလင်းတန်း | `burmese-episodes/0401-0500/0445.md` |
+| 446 | Chapter 446 | Completed | နှောင်းပိုင်းရှာမန် ထျဲမု | `burmese-episodes/0401-0500/0446.md` |
+| 447 | Chapter 447 | Completed | မော့စု၏ ပွဲထွက်ခြင်း | `burmese-episodes/0401-0500/0447.md` |
+| 448 | Chapter 448 | Completed | တစ္ဆေဝိညာဉ်ပန်း ပေါ်ထွက်လာခြင်း | `burmese-episodes/0401-0500/0448.md` |
+| 449 | Chapter 449 | Completed | မိန်းကလေးသုံးဦး၏ ဈေးပြိုင်ပွဲ | `burmese-episodes/0401-0500/0449.md` |
+| 450 | Chapter 450 | Completed | နတ်ဘုရားပျံတက်ခြင်းပန်း၏ အရွက် | `burmese-episodes/0401-0500/0450.md` |
+| 451 | Chapter 451 | Completed | ထိပ်တိုက်ရင်ဆိုင်ခြင်း | `burmese-episodes/0401-0500/0451.md` |
+| 452 | Chapter 452 | Completed | လေ၏အစွမ်း | `burmese-episodes/0401-0500/0452.md` |
+| 453 | Chapter 453 | Completed | ဇီလုံရှန်း ပေါ်ထွက်လာခြင်း | `burmese-episodes/0401-0500/0453.md` |
+| 454 | Chapter 454 | Completed | မြေကမ္ဘာဝတ်ကျောင်းတော်အရှင် | `burmese-episodes/0401-0500/0454.md` |
+| 455 | Chapter 455 | Completed | မိတ်ဆွေမိုပိုင် | `burmese-episodes/0401-0500/0455.md` |
+| 456 | Chapter 456 | Completed | ဖယောင်းတိုင်နဂါး၏ သက်ရှိအသက်ရှူသံ | `burmese-episodes/0401-0500/0456.md` |
+| 457 | Chapter 457 | Completed | ဖယောင်းတိုင်နဂါး၏ သင်္ဂြိုဟ်ရာနယ်မြေ | `burmese-episodes/0401-0500/0457.md` |
+| 458 | Chapter 458 | Completed | ဖယောင်းတိုင်နဂါး၏ မူလစစ်မှန်သောအစွမ်း | `burmese-episodes/0401-0500/0458.md` |
+| 459 | Chapter 459 | Completed | အသိအမှတ်ပြုခံရခြင်း | `burmese-episodes/0401-0500/0459.md` |
+| 460 | Chapter 460 | Completed | အရူးအမူး ဆုံးဖြတ်ချက် | `burmese-episodes/0401-0500/0460.md` |
+| 461 | Chapter 461 | Completed | ပြောင်းလဲလာသော သက်ရှိများ | `burmese-episodes/0401-0500/0461.md` |
+| 462 | Chapter 462 | Completed | သတ္တမမြောက် ဘာဆာကာအရိုး | `burmese-episodes/0401-0500/0462.md` |
+| 463 | Chapter 463 | Completed | ခရမ်းရောင် ချပ်ဝတ်တန်ဆာနှင့် အလောင်း | `burmese-episodes/0401-0500/0463.md` |
+| 464 | Chapter 464 | Completed | ကံကြမ္မာရန်သူ | `burmese-episodes/0401-0500/0464.md` |
+| 465 | Chapter 465 | Completed | တတိယမြောက် ဘာဆာကာနတ်ဘုရား | `burmese-episodes/0401-0500/0465.md` |
+| 466 | Chapter 466 | Completed | မျက်သူငယ်အိမ် ကိုးခုရှိသော မျက်လုံးနှင့် ကျိန်စာ | `burmese-episodes/0401-0500/0466.md` |
+| 467 | Chapter 467 | Completed | မသေနိုင်သော၊ မပျက်စီးနိုင်သောကမ္ဘာ | `burmese-episodes/0401-0500/0467.md` |
+| 468 | Chapter 468 | Completed | နိုးထခြင်းနှင့် စစ်ပွဲ | `burmese-episodes/0401-0500/0468.md` |
+| 469 | Chapter 469 | Completed | ငါ့နာမည်က ဆူမင် | `burmese-episodes/0401-0500/0469.md` |
+| 470 | Chapter 470 | Completed | ကိုယ့်ကိုယ်ကိုယ် ဆုံးရှုံးခြင်း | `burmese-episodes/0401-0500/0470.md` |
+| 471 | Chapter 471 | Completed | အကြိမ်ပေါင်းများစွာ သေဆုံးပြီးနောက် | `burmese-episodes/0401-0500/0471.md` |
+| 472 | Chapter 472 | Completed | မသေနိုင်သော၊ မပျက်စီးနိုင်သောကမ္ဘာထဲမှ သဲလွန်စ | `burmese-episodes/0401-0500/0472.md` |
+| 473 | Chapter 473 | Completed | ငါ နားလည်သွားပြီ | `burmese-episodes/0401-0500/0473.md` |
+| 474 | Chapter 474 | Completed | ကံကြမ္မာ | `burmese-episodes/0401-0500/0474.md` |
+| 475 | Chapter 475 | Completed | မသေနိုင်သော၊ မပျက်စီးနိုင်သောကမ္ဘာ... ပွင့်စေ! | `burmese-episodes/0401-0500/0475.md` |
+| 476 | Chapter 476 | Completed | ပြန်လည်မွေးဖွားလာခြင်း | `burmese-episodes/0401-0500/0476.md` |
+| 477 | Chapter 477 | Completed | ဧရာမ ကံကောင်းခြင်းအခွင့်အလမ်း | `burmese-episodes/0401-0500/0477.md` |
+| 478 | Chapter 478 | Completed | ဘာဆာကာဝိညာဉ်အဆင့်သို့ ဖောက်ထွက်ခြင်း ကျရှုံးခြင်း | `burmese-episodes/0401-0500/0478.md` |
+| 479 | Chapter 479 | Completed | ဘဝရဲ့ ချို့ယွင်းချက် | `burmese-episodes/0401-0500/0479.md` |
+| 480 | Chapter 480 | Completed | သမိုင်းတစ်လျှောက် မရှိဖူးသောလမ်းစဉ် | `burmese-episodes/0401-0500/0480.md` |
+| 481 | Chapter 481 | Completed | ဘာတွေ ဖြစ်ပျက်ခဲ့သနည်း | `burmese-episodes/0401-0500/0481.md` |
+| 482 | Chapter 482 | Completed | မြင့်မြတ်သော လင်းနို့များ | `burmese-episodes/0401-0500/0482.md` |
+| 483 | Chapter 483 | Completed | ကံကြမ္မာတူအနွယ်ဝင်များ | `burmese-episodes/0401-0500/0483.md` |
+| 484 | Chapter 484 | Completed | ငါကလည်း အပြင်လူတစ်ယောက်ပဲ | `burmese-episodes/0401-0500/0484.md` |
+| 485 | Chapter 485 | Completed | မင်းက မော့စုပဲ | `burmese-episodes/0401-0500/0485.md` |
+| 486 | Chapter 486 | Completed | သူတို့အားလုံးကို သတ်ပစ်စမ်း | `burmese-episodes/0401-0500/0486.md` |
+| 487 | Chapter 487 | Completed | မီးတောက်ဘာဆာကာ! | `burmese-episodes/0401-0500/0487.md` |
+| 488 | Chapter 488 | Completed | ကံကြမ္မာတူအနွယ်ဝင်များ | `burmese-episodes/0401-0500/0488.md` |
+| 489 | Chapter 489 | Completed | ပြန်လာတာကို ကြိုဆိုပါတယ် | `burmese-episodes/0401-0500/0489.md` |
+| 490 | Chapter 490 | Completed | မင်း ဘာလို့ ငါ့ကို ကံကြမ္မာလို့ အမြဲခေါ်နေရတာလဲ | `burmese-episodes/0401-0500/0490.md` |
+| 491 | Chapter 491 | Completed | ငါ့ရဲ့အိမ်က ဘယ်မှာလဲ | `burmese-episodes/0401-0500/0491.md` |
+| 492 | Chapter 492 | Completed | ငါ့ဆီ ပြန်လာစမ်း အဆိပ်အလောင်း | `burmese-episodes/0401-0500/0492.md` |
+| 493 | Chapter 493 | Completed | ငါက စုမင်ပဲ! | `burmese-episodes/0401-0500/0493.md` |
+| 494 | Chapter 494 | Completed | လမင်းသင်္ဂြိုဟ်ခြင်း | `burmese-episodes/0401-0500/0494.md` |
+| 495 | Chapter 495 | Completed | ကံကြမ္မာ၏ ပထမဆုံးပေါင်းစပ်ခြင်း | `burmese-episodes/0401-0500/0495.md` |
+| 496 | Chapter 496 | Completed | မင်းကော ဘာလို့ ဒီကို ရောက်နေတာလဲ | `burmese-episodes/0401-0500/0496.md` |
+| 497 | Chapter 497 | Completed | ငါက... သေဆုံးနေတာလား | `burmese-episodes/0401-0500/0497.md` |
+| 498 | Chapter 498 | Completed | လီဆန်းတောင်စဉ် | `burmese-episodes/0401-0500/0498.md` |
+| 499 | Chapter 499 | Completed | တတိယမြောက် ဘာဆာကာနတ်ဘုရား လီရှန်းဟော့ | `burmese-episodes/0401-0500/0499.md` |
+| 500 | Chapter 500 | Completed | မှန်ထဲက ကမ္ဘာ | `burmese-episodes/0401-0500/0500.md` |
