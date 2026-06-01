@@ -110,7 +110,7 @@ This file tracks the translation progress from English to Burmese for Chapters 1
 | 104 | Chapter 104 | Completed | ကောင်းကင်နှင့် အနီးဆုံးနေရာ | `burmese-episodes/0101-0200/0104.md` |
 | 105 | Chapter 105 | Completed | လမင်းအောက်မှ တိုက်ပွဲ! | `burmese-episodes/0101-0200/0105.md` |
 | 106 | Chapter 106 | Completed | ကျဆုံးဘာဆာကာ ပေါ်ထွန်းလာခြင်း! | `burmese-episodes/0101-0200/0106.md` |
-| 107 | Chapter 107 | Completed | အကြီးအကဲ၏ လျှို့ဝှက်ချက်! | `burmese-episodes/0101-0200/0107.md` |
+| 107 | Chapter 107 | Completed | အကြီးအကဲ၏ လျှို့ဝက်ချက်! | `burmese-episodes/0101-0200/0107.md` |
 | 108 | Chapter 108 | Completed | ရှင်း! | `burmese-episodes/0101-0200/0108.md` |
 | 109 | Chapter 109 | Completed | အခြားကမ္ဘာတစ်ခု၏ ကောင်းကင်ယံ! | `burmese-episodes/0101-0200/0109.md` |
 | 110 | Chapter 110 | Completed | ပထမပိုင်း ပြီးဆုံးခြင်း | `burmese-episodes/0101-0200/0110.md` |
@@ -152,7 +152,7 @@ This file tracks the translation progress from English to Burmese for Chapters 1
 | 146 | Chapter 146 | Completed | ဧည့်သည်တော်ချုပ် ရွှမ်လွန် | `burmese-episodes/0101-0200/0146.md` |
 | 147 | Chapter 147 | Completed | တူညီသော ကောင်းကင်ယံကြီး | `burmese-episodes/0101-0200/0147.md` |
 | 148 | Chapter 148 | Completed | နေရာရွှေ့ပြောင်းခြင်း သင်္ကေတ | `burmese-episodes/0101-0200/0148.md` |
-| 149 | Chapter 149 | Completed | ဘိုးဘေး မသေဆုံးသေးခြင်း လျှို့ဝှက်ချက် | `burmese-episodes/0101-0200/0149.md` |
+| 149 | Chapter 149 | Completed | ဘိုးဘေး မသေဆုံးသေးခြင်း လျှို့ဝက်ချက် | `burmese-episodes/0101-0200/0149.md` |
 | 150 | Chapter 150 | Completed | ရင်ဆိုင်တွေ့ဆုံခြင်း | `burmese-episodes/0101-0200/0150.md` |
 | 151 | Chapter 151 | Completed | ပင့်သက်တစ်ချက်၏ ဆန်းကြယ်သောအစွမ်း | `burmese-episodes/0101-0200/0151.md` |
 | 152 | Chapter 152 | Completed | သတ်ဖြတ်ခြင်းနှင့် စုစည်းခြင်း | `burmese-episodes/0101-0200/0152.md` |
@@ -404,26 +404,6 @@ This file tracks the translation progress from English to Burmese for Chapters 1
 | 398 | Chapter 398 | Completed | သန့်ရှင်းသော ဝိညာဉ်ရတနာ၏ ဖိနှိပ်ခြင်း! | `burmese-episodes/0301-0400/0398.md` |
 | 399 | Chapter 399 | Completed | ဒီထျန်း ရောက်ရှိလာခြင်း! | `burmese-episodes/0301-0400/0399.md` |
 | 400 | Chapter 400 | Completed | ကောင်းကင်ပြင် ပြိုကွဲခြင်း! | `burmese-episodes/0301-0400/0400.md` |
-| 481 | Chapter 481 | Completed | ဘာတွေ ဖြစ်ပျက်ခဲ့သနည်း | `burmese-episodes/0401-0500/0481.md` |
-| 482 | Chapter 482 | Completed | မြင့်မြတ်သော လင်းနို့များ | `burmese-episodes/0401-0500/0482.md` |
-| 483 | Chapter 483 | Completed | ကံကြမ္မာတူအနွယ်ဝင်များ | `burmese-episodes/0401-0500/0483.md` |
-| 484 | Chapter 484 | Completed | ငါကလည်း အပြင်လူတစ်ယောက်ပဲ | `burmese-episodes/0401-0500/0484.md` |
-| 485 | Chapter 485 | Completed | မင်းက မော့စုပဲ | `burmese-episodes/0401-0500/0485.md` |
-| 486 | Chapter 486 | Completed | သူတို့အားလုံးကို သတ်ပစ်စမ်း | `burmese-episodes/0401-0500/0486.md` |
-| 487 | Chapter 487 | Completed | မီးတောက်ဘာဆာကာ! | `burmese-episodes/0401-0500/0487.md` |
-| 488 | Chapter 488 | Completed | ကံကြမ္မာတူအနွယ်ဝင်များ | `burmese-episodes/0401-0500/0488.md` |
-| 489 | Chapter 489 | Completed | ပြန်လာတာကို ကြိုဆိုပါတယ် | `burmese-episodes/0401-0500/0489.md` |
-| 490 | Chapter 490 | Completed | မင်း ဘာလို့ ငါ့ကို ကံကြမ္မာလို့ အမြဲခေါ်နေရတာလဲ | `burmese-episodes/0401-0500/0490.md` |
-| 491 | Chapter 491 | Completed | ငါ့ရဲ့အိမ်က ဘယ်မှာလဲ | `burmese-episodes/0401-0500/0491.md` |
-| 492 | Chapter 492 | Completed | ငါ့ဆီ ပြန်လာစမ်း အဆိပ်အလောင်း | `burmese-episodes/0401-0500/0492.md` |
-| 493 | Chapter 493 | Completed | ငါက စုမင်ပဲ! | `burmese-episodes/0401-0500/0493.md` |
-| 494 | Chapter 494 | Completed | လမင်းသင်္ဂြိုဟ်ခြင်း | `burmese-episodes/0401-0500/0494.md` |
-| 495 | Chapter 495 | Completed | ကံကြမ္မာ၏ ပထမဆုံးပေါင်းစပ်ခြင်း | `burmese-episodes/0401-0500/0495.md` |
-| 496 | Chapter 496 | Completed | မင်းကော ဘာလို့ ဒီကို ရောက်နေတာလဲ | `burmese-episodes/0401-0500/0496.md` |
-| 497 | Chapter 497 | Completed | ငါက... သေဆုံးနေတာလား | `burmese-episodes/0401-0500/0497.md` |
-| 498 | Chapter 498 | Completed | လီဆန်းတောင်စဉ် | `burmese-episodes/0401-0500/0498.md` |
-| 499 | Chapter 499 | Completed | တတိယမြောက် ဘာဆာကာနတ်ဘုရား လီရှန်းဟော့ | `burmese-episodes/0401-0500/0499.md` |
-| 500 | Chapter 500 | Completed | မှန်ထဲက ကမ္ဘာ | `burmese-episodes/0401-0500/0500.md` |
 | 401 | Chapter 401 | Completed | ကောင်းကင်ဘုံ၏ ပြစ်ဒဏ် | `burmese-episodes/0401-0500/0401.md` |
 | 402 | Chapter 402 | Completed | ခြောက်ဆင့်နှင့် ခုနစ်ဆင့် ပြစ်ဒဏ် | `burmese-episodes/0401-0500/0402.md` |
 | 403 | Chapter 403 | Completed | ဘိုးဘေး ဟုန်လော့၏ နိုးထခြင်း | `burmese-episodes/0401-0500/0403.md` |
@@ -524,3 +504,146 @@ This file tracks the translation progress from English to Burmese for Chapters 1
 | 498 | Chapter 498 | Completed | လီဆန်းတောင်စဉ် | `burmese-episodes/0401-0500/0498.md` |
 | 499 | Chapter 499 | Completed | တတိယမြောက် ဘာဆာကာနတ်ဘုရား လီရှန်းဟော့ | `burmese-episodes/0401-0500/0499.md` |
 | 500 | Chapter 500 | Completed | မှန်ထဲက ကမ္ဘာ | `burmese-episodes/0401-0500/0500.md` |
+| 501 | Chapter 501 | Completed | ပထမဆုံးနေ့ | `burmese-episodes/0501-0600/0501.md` |
+| 502 | Chapter 502 | Completed | မှန်ထဲက ကမ္ဘာ | `burmese-episodes/0501-0600/0502.md` |
+| 503 | Chapter 503 | Completed | လိုဏ်ခေါင်းနက်အတွင်းရှိ လျှို့ဝက်ချက်များ | `burmese-episodes/0501-0600/0503.md` |
+| 504 | Chapter 504 | Completed | သေမင်းလေပူဖောင်းနှင့် ကလေးငယ်၏ လျှို့ဝက်ချက် | `burmese-episodes/0501-0600/0504.md` |
+| 505 | Chapter 505 | Completed | ကပ်ဘေးကြီး၏အစပျိုးမှုနှင့် တောင်ဘက်နံနက်ခင်းသို့ ပြန်လည်ရောက်ရှိခြင်း | `burmese-episodes/0501-0600/0505.md` |
+| 506 | Chapter 506 | Completed | ထွက်သွားစမ်း | `burmese-episodes/0501-0600/0506.md` |
+| 507 | Chapter 507 | Completed | မျိုးတူငှက်များနှင့် နဂါးညှပ်ငှက်မည်းကြီး၏ လှည့်စားမှု | `burmese-episodes/0501-0600/0507.md` |
+| 508 | Chapter 508 | Completed | တိုက်မိပြီ! | `burmese-episodes/0501-0600/0508.md` |
+| 509 | Chapter 509 | Completed | အရှေ့ဘက်လွင်ပြင်ကပ်ဘေး! | `burmese-episodes/0501-0600/0509.md` |
+| 510 | Chapter 510 | Completed | ရေခဲအောက်မှ ငါးနှစ် | `burmese-episodes/0501-0600/0510.md` |
+| 511 | Chapter 511 | Completed | လိပ်ကြီး၏ ကြီးမားသော ရည်မှန်းချက်! | `burmese-episodes/0501-0600/0511.md` |
+| 512 | Chapter 512 | Completed | နတ်ဘုရားပင့်ဆောင်ခြင်း ပစ္စည်း! | `burmese-episodes/0501-0600/0512.md` |
+| 513 | Chapter 513 | Completed | မဟာယု ကောင်းကင်နန်းတော်! | `burmese-episodes/0501-0600/0513.md` |
+| 514 | Chapter 514 | Completed | ရေခဲရိုက်ထားသော မင်းနေပြည်တော်! | `burmese-episodes/0501-0600/0514.md` |
+| 515 | Chapter 515 | Completed | ကံကြမ္မာ၏ ဆင့်ခေါ်သံ! | `burmese-episodes/0501-0600/0515.md` |
+| 516 | Chapter 516 | Completed | ကံကြမ္မာတူအနွယ်ဝင်များ! | `burmese-episodes/0501-0600/0516.md` |
+| 517 | Chapter 517 | Completed | ကံကြမ္မာ၏ မြှားတစ်စင်း! | `burmese-episodes/0501-0600/0517.md` |
+| 518 | Chapter 518 | Completed | ကံကြမ္မာ၏ ပြင်းပြသော ကိုးကွယ်မှု! | `burmese-episodes/0501-0600/0518.md` |
+| 519 | Chapter 519 | Completed | ရှင်သန်ခြင်း အခွင့်အရေး | `burmese-episodes/0501-0600/0519.md` |
+| 520 | Chapter 520 | Completed | တောင်ပိုင်းရွှံ့ညွန်သို့ ဝင်ရောက်ခြင်း! | `burmese-episodes/0501-0600/0520.md` |
+| 521 | Chapter 521 | Completed | မိတ်ဆွေဟောင်းနှင့် ပြန်လည်ဆုံဆည်းခြင်း! | `burmese-episodes/0501-0600/0521.md` |
+| 522 | Chapter 522 | Completed | ကန်းလန်၏ သတ်ဖြတ်ခြင်း အစီအစဉ်! | `burmese-episodes/0501-0600/0522.md` |
+| 523 | Chapter 523 | Completed | နှလုံးသားမရှိသောသူ | `burmese-episodes/0501-0600/0523.md` |
+| 524 | Chapter 524 | Completed | ဆောရီးပဲ၊ ကျုပ် လက်ချော်သွားလို့ပါ | `burmese-episodes/0501-0600/0524.md` |
+| 525 | Chapter 525 | Completed | ငါ မင်းတို့အားလုံးအတွက် တစ်ခုခု လုပ်ပေးမယ် | `burmese-episodes/0501-0600/0525.md` |
+| 526 | Chapter 526 | Completed | မင်း ငါ့ကို တကယ်ပဲ စိတ်ပျက်စေတယ် | `burmese-episodes/0501-0600/0526.md` |
+| 527 | Chapter 527 | Completed | အကြီးအကဲ... ခင်ဗျား ဘယ်သူလဲ | `burmese-episodes/0501-0600/0527.md` |
+| 528 | Chapter 528 | Completed | ငါ၊ တောင်ဘက်နံနက်ခင်းက စုမင် | `burmese-episodes/0501-0600/0528.md` |
+| 529 | Chapter 529 | Completed | သွေးမိုးများ ရွာသွန်းခြင်း | `burmese-episodes/0501-0600/0529.md` |
+| 530 | Chapter 530 | Completed | ဤမျှသာလား | `burmese-episodes/0501-0600/0530.md` |
+| 531 | Chapter 531 | Completed | ကောင်းကင်ယံကို လောင်ကျွမ်းစေတဲ့ ဒေါသမီး | `burmese-episodes/0501-0600/0531.md` |
+| 532 | Chapter 532 | Completed | ကောင်းကင်ပြင်သည် သက်ရှိအားလုံးကို မွေးမြူထောက်ပံ့၏ | `burmese-episodes/0501-0600/0532.md` |
+| 533 | Chapter 533 | Completed | မဟာယု တောင်ပိုင်း စံရှန်းနန်းတော် | `burmese-episodes/0501-0600/0533.md` |
+| 534 | Chapter 534 | Completed | တမ်းတခြင်း တစ်ခုတည်းသာ ကျန်ရှိတော့သည် | `burmese-episodes/0501-0600/0534.md` |
+| 535 | Chapter 535 | Completed | တောင်ဘက်နံနက်ခင်းက စုမင်! | `burmese-episodes/0501-0600/0535.md` |
+| 536 | Chapter 536 | Completed | ဆရာကြီး မိုချွဲ... တိုက်ခိုက်ပေးပါဦး! | `burmese-episodes/0501-0600/0536.md` |
+| 537 | Chapter 537 | Completed | မိုလော့ တကယ်ပဲ ကျိန်ဆဲချင်သွားသည် | `burmese-episodes/0501-0600/0537.md` |
+| 538 | Chapter 538 | Completed | ငါတို့တောင်ဘက်နံနက်ခင်းကို စော်ကားသူမှန်သမျှ သတ်စေ! | `burmese-episodes/0501-0600/0538.md` |
+| 539 | Chapter 539 | Completed | ရေခဲကောင်းကင်ကျွန်းသို့ ရောက်ရှိခြင်း | `burmese-episodes/0501-0600/0539.md` |
+| 540 | Chapter 540 | Completed | ငါ ကိုးခုမြောက်တောင်ထွတ်ကိုပဲ ကာကွယ်ချင်ခဲ့တာ... | `burmese-episodes/0501-0600/0540.md` |
+| 541 | Chapter 541 | Completed | တတိယနောင်တော်ကြီး... ငါ ပြန်လာခဲ့ပြီ... | `burmese-episodes/0501-0600/0541.md` |
+| 542 | Chapter 542 | Completed | အရာအားလုံးကို ငါပဲ ဖြေရှင်းပေးမယ်! | `burmese-episodes/0501-0600/0542.md` |
+| 543 | Chapter 543 | Completed | ရေခဲကောင်းကင် ကောင်းကင်တံခါး! | `burmese-episodes/0501-0600/0543.md` |
+| 544 | Chapter 544 | Completed | ငါတို့က တစ်မိသားစုတည်းလား | `burmese-episodes/0501-0600/0544.md` |
+| 545 | Chapter 545 | Completed | ဇီချယ်! | `burmese-episodes/0501-0600/0545.md` |
+| 546 | Chapter 546 | Completed | ကျောက်မျက်စီခြယ် သန့်စင်ဆေးအိုး | `burmese-episodes/0501-0600/0546.md` |
+| 547 | Chapter 547 | Completed | သိုးထိန်းမျှော်စင်မျိုးနွယ်စု | `burmese-episodes/0501-0600/0547.md` |
+| 548 | Chapter 548 | Completed | ကျေးဇူးပြုပြီး ကျွန်တော်တို့ကို ကူညီပြီး သူ့ကို သတ်ပေးပါ... | `burmese-episodes/0501-0600/0548.md` |
+| 549 | Chapter 549 | Completed | သူ့ကို သတ်ပစ်စမ်း! | `burmese-episodes/0501-0600/0549.md` |
+| 550 | Chapter 550 | Completed | ငါက စစ်မှန်တဲ့ မီးတောက်ဘာဆာကာပဲ! | `burmese-episodes/0501-0600/0550.md` |
+| 551 | Chapter 551 | Completed | မင်းက မီးတောက်ဘာဆာကာပဲ! | `burmese-episodes/0501-0600/0551.md` |
+| 552 | Chapter 552 | Completed | တစ်ခါတရံ သေဆုံးခြင်းဟာ လွတ်လပ်ခွင့်တစ်မျိုးပါပဲ | `burmese-episodes/0501-0600/0552.md` |
+| 553 | Chapter 553 | Completed | မင်းက အရင်အတိုင်းပဲ | `burmese-episodes/0501-0600/0553.md` |
+| 554 | Chapter 554 | Completed | စိတ်ဓာတ်စစ်ဆင်ရေး | `burmese-episodes/0501-0600/0554.md` |
+| 555 | Chapter 555 | Completed | ဘာဆာကာနတ်ဘုရား၏ တောက်ပသော ယပ်တောင် | `burmese-episodes/0501-0600/0555.md` |
+| 556 | Chapter 556 | Completed | လေကင်းမဲ့ဇုန် | `burmese-episodes/0501-0600/0556.md` |
+| 557 | Chapter 557 | Completed | ပိုင်စု၏ မျက်ရည်များ | `burmese-episodes/0501-0600/0557.md` |
+| 558 | Chapter 558 | Completed | ဒုတိယမြောက် ဘာဆာကာနတ်ဘုရား၏ ဘယ်လက်ဝါး | `burmese-episodes/0501-0600/0558.md` |
+| 559 | Chapter 559 | Completed | ဘာဆာကာနတ်ဘုရား၏ အရိုးဆူးချွန်များ | `burmese-episodes/0501-0600/0559.md` |
+| 560 | Chapter 560 | Completed | မင်း သေချာပေါက် သေရလိမ့်မယ်! | `burmese-episodes/0501-0600/0560.md` |
+| 561 | Chapter 561 | Completed | ဓားအရှင်သစ် | `burmese-episodes/0501-0600/0561.md` |
+| 562 | Chapter 562 | Completed | နတ်ဘုရားပင့်ဆောင်ခြင်းဆေးလုံး | `burmese-episodes/0501-0600/0562.md` |
+| 563 | Chapter 563 | Completed | လမင်းရွေ့လျားခြင်းကျင့်စဉ် | `burmese-episodes/0501-0600/0563.md` |
+| 564 | Chapter 564 | Completed | ငါ့ရဲ့ ကံကြမ္မာပဲ | `burmese-episodes/0501-0600/0564.md` |
+| 565 | Chapter 565 | Completed | အောင်မြင်မှုဆိုတာ စွန့်စားမှ ရရှိတာပဲ! | `burmese-episodes/0501-0600/0565.md` |
+| 566 | Chapter 566 | Completed | စစ်မှန်သော ပြီးပြည့်စုံခြင်း | `burmese-episodes/0501-0600/0566.md` |
+| 567 | Chapter 567 | Completed | ဤလောက၌ ကံကြမ္မာသည် တကယ်ပင် တည်ရှိနေသည် ဖြစ်နိုင်သည် | `burmese-episodes/0501-0600/0567.md` |
+| 568 | Chapter 568 | Completed | ငါ ထင်တဲ့အတိုင်း တကယ် အလုပ်ဖြစ်တာပဲ! | `burmese-episodes/0501-0600/0568.md` |
+| 569 | Chapter 569 | Completed | ကောင်းကင်မြစ်ထဲသို့ ကျဆင်းသွားသော ကျောက်တုံးတစ်တုံး၏ ဘဝကံကြမ္မာ | `burmese-episodes/0501-0600/0569.md` |
+| 570 | Chapter 570 | Completed | ကောင်းကင်မြစ်ရဲ့ အပြင်ဘက်မှာ အသက်ရှူကျပ်နေတဲ့ ငါးတစ်ကောင် | `burmese-episodes/0501-0600/0570.md` |
+| 571 | Chapter 571 | Completed | အသက်ဇီဝ (Life) ဆိုတာ ဘာလဲ... | `burmese-episodes/0501-0600/0571.md` |
+| 572 | Chapter 572 | Completed | ငါက ထာဝရရှင်သန်သူ ပေလင် ဖြစ်တယ်! | `burmese-episodes/0501-0600/0572.md` |
+| 573 | Chapter 573 | Completed | ထွက်သွားစမ်း! | `burmese-episodes/0501-0600/0573.md` |
+| 574 | Chapter 574 | Completed | နောင်တော်ကြီး... ကျွန်တော် ရောက်ပြီ | `burmese-episodes/0501-0600/0574.md` |
+| 575 | Chapter 575 | Completed | ငါ စုမင်က မင်းအပေါ် ဘာကြွေးမြီမျှ မတင်ရှိတော့ဘူး | `burmese-episodes/0501-0600/0575.md` |
+| 576 | Chapter 576 | Completed | အဖြေကတော့... အတုအယောင် ဖြစ်တယ်ဆိုတာပါပဲ | `burmese-episodes/0501-0600/0576.md` |
+| 577 | Chapter 577 | Completed | အသက်ဇီဝလုယူခြင်း | `burmese-episodes/0501-0600/0577.md` |
+| 578 | Chapter 578 | Completed | နှစ်တစ်ထောင်ပွင့်တဲ့ ပန်းကလေးတစ်ပွင့် | `burmese-episodes/0501-0600/0578.md` |
+| 579 | Chapter 579 | Completed | သုံးရက်ကြာ ကောင်းချီးအခွင့်အလမ်း | `burmese-episodes/0501-0600/0579.md` |
+| 580 | Chapter 580 | Completed | ကံကြမ္မာ... မင်း ဘယ်လိုမှ မလွတ်နိုင်တော့ဘူး | `burmese-episodes/0501-0600/0580.md` |
+| 581 | Chapter 581 | Completed | ဒါမှ ငါသိတဲ့ ပုံမှန်စုမင်ကွ | `burmese-episodes/0501-0600/0581.md` |
+| 582 | Chapter 582 | Completed | ကိုယ် ပြန်လာပြီ | `burmese-episodes/0501-0600/0582.md` |
+| 583 | Chapter 583 | Completed | အိပ်မက် ပြီးဆုံးသွားခဲ့ပါပြီ | `burmese-episodes/0501-0600/0583.md` |
+| 584 | Chapter 584 | Completed | ငါကိုယ်တိုင်ပဲ ငါ့ရဲ့ စစ်မြေပြင်ကို ရွေးချယ်လိုက်မယ် | `burmese-episodes/0501-0600/0584.md` |
+| 585 | Chapter 585 | Completed | ဒီထျန်း၏ ကိုယ်ပွား | `burmese-episodes/0501-0600/0585.md` |
+| 586 | Chapter 586 | Completed | တေးသွားပြီးဆုံး၍ လူစုကွဲခြင်း | `burmese-episodes/0501-0600/0586.md` |
+| 587 | Chapter 587 | Completed | ခြုံခိုတိုက်ခိုက်ခြင်း | `burmese-episodes/0501-0600/0587.md` |
+| 588 | Chapter 588 | Completed | ငါသည် စုမင် ဖြစ်၏ | `burmese-episodes/0501-0600/0588.md` |
+| 589 | Chapter 589 | Completed | ရက်စက်ပြင်းထန်လှသော တိုက်ပွဲ | `burmese-episodes/0501-0600/0589.md` |
+| 590 | Chapter 590 | Completed | ကိုးခုမြောက် လက်ဆောင် | `burmese-episodes/0501-0600/0590.md` |
+| 591 | Chapter 591 | Completed | ခက်ခဲပင်ပန်းမှု | `burmese-episodes/0501-0600/0591.md` |
+| 592 | Chapter 592 | Completed | အစွမ်းထက်လှသော | `burmese-episodes/0501-0600/0592.md` |
+| 593 | Chapter 593 | Completed | ချောက်နက်ဓား | `burmese-episodes/0501-0600/0593.md` |
+| 594 | Chapter 594 | Completed | မွန်မြတ်လှသောသူ | `burmese-episodes/0501-0600/0594.md` |
+| 595 | Chapter 595 | Completed | ကံကြမ္မာကောင်းကင်ဘုံပြစ်ဒဏ်ခတ်ခြင်း | `burmese-episodes/0501-0600/0595.md` |
+| 596 | Chapter 596 | Completed | ရုပ်ဆိုးမလေး | `burmese-episodes/0501-0600/0596.md` |
+| 597 | Chapter 597 | Completed | ကောက်ရိုးရုပ်လေး | `burmese-episodes/0501-0600/0597.md` |
+| 598 | Chapter 598 | Completed | ခုနစ်ရက် | `burmese-episodes/0501-0600/0598.md` |
+| 599 | Chapter 599 | Completed | နတ်ဆိုးဂိုဏ်း | `burmese-episodes/0501-0600/0599.md` |
+| 600 | Chapter 600 | Completed | စတုတ္ထမြောက်တပည့် | `burmese-episodes/0501-0600/0600.md` |
+| 601 | Chapter 601 | Completed | ဤအခန်းက တော်တော်လေး စိတ်ဝင်စားဖို့ကောင်းတာပဲ | `burmese-episodes/0601-0700/0601.md` |
+| 602 | Chapter 602 | Completed | သူရဲကောင်းတို့၏ နေရပ် | `burmese-episodes/0601-0700/0602.md` |
+| 603 | Chapter 603 | Completed | ဤနေရာက မင်းလာချင်တိုင်းလာလို့ရတဲ့ နေရာမဟုတ်ဘူး | `burmese-episodes/0601-0700/0603.md` |
+| 604 | Chapter 604 | Completed | အခွင့်အရေး | `burmese-episodes/0601-0700/0604.md` |
+| 605 | Chapter 605 | Completed | စုံစမ်းစစ်ဆေးခြင်း | `burmese-episodes/0601-0700/0605.md` |
+| 606 | Chapter 606 | Completed | ချျန်းချန်း | `burmese-episodes/0601-0700/0606.md` |
+| 607 | Chapter 607 | Completed | လုံးဝ မနှောင့်ယှက်ရမည့်သူများ | `burmese-episodes/0601-0700/0607.md` |
+| 608 | Chapter 608 | Completed | အထူးဆန်းဆုံး ပညာရပ် | `burmese-episodes/0601-0700/0608.md` |
+| 609 | Chapter 609 | Completed | အနာတရ ဆုမင် | `burmese-episodes/0601-0700/0609.md` |
+| 610 | Chapter 610 | Completed | လမ်းခွဲခြင်းသို့ ဦးတည်သော တံခါးကို မဖွင့်တော့ပါ | `burmese-episodes/0601-0700/0610.md` |
+| 611 | Chapter 611 | Completed | လုံးဝ မနှောင့်ယှက်ရမည့်သူများ၏ ပထမအဆင့် | `burmese-episodes/0601-0700/0611.md` |
+| 612 | Chapter 612 | Completed | အထုပ်အနှောင်နှင့် ဘေးဒဏ်များ | `burmese-episodes/0601-0700/0612.md` |
+| 613 | Chapter 613 | Completed | မင်း ငါ့ကို မြင်တာတောင် ဘာလို့ နှုတ်မဆက်သေးတာလဲ | `burmese-episodes/0601-0700/0613.md` |
+| 614 | Chapter 614 | Completed | ဘာဆာကာတို့၏ ဘေးဒဏ် | `burmese-episodes/0601-0700/0614.md` |
+| 615 | Chapter 615 | Completed | ဘေးဒဏ်သို့ ဖိတ်ခေါ်ခြင်း | `burmese-episodes/0601-0700/0615.md` |
+| 616 | Chapter 616 | Completed | ဟန်တောင်ခေါင်းလောင်းလား? | `burmese-episodes/0601-0700/0616.md` |
+| 617 | Chapter 617 | Completed | မြင့်မြတ်သောလက်နက်၏ ဇွဲလုံ့လ | `burmese-episodes/0601-0700/0617.md` |
+| 618 | Chapter 618 | Completed | အရှေ့ဘက်ကန္တာရလွင်ပြင် မျှော်စင် | `burmese-episodes/0601-0700/0618.md` |
+| 619 | Chapter 619 | Completed | အရှေ့ဘက်ကန္တာရမျှော်စင် ပေါ်ထွန်းလာခြင်း | `burmese-episodes/0601-0700/0619.md` |
+| 620 | Chapter 620 | Completed | ပရမ်းပတာကာလ၏ အစဦး | `burmese-episodes/0601-0700/0620.md` |
+| 621 | Chapter 621 | Completed | သတ်ဖြတ်ခြင်းနှင့် လုယက်ခြင်း | `burmese-episodes/0601-0700/0621.md` |
+| 622 | Chapter 622 | Completed | နတ်ဆိုးဂိုဏ်း၏ ရက်စက်မှု | `burmese-episodes/0601-0700/0622.md` |
+| 623 | Chapter 623 | Completed | အလွန်အမင်း လောဘကြီးသော လုယက်သူ | `burmese-episodes/0601-0700/0623.md` |
+| 624 | Chapter 624 | Completed | ဘရိုက်ယန်းကျောက်တုံး | `burmese-episodes/0601-0700/0624.md` |
+| 625 | Chapter 625 | Completed | တိုက်ပွဲ၏ တန်ဖိုး | `burmese-episodes/0601-0700/0625.md` |
+| 626 | Chapter 626 | Completed | ငှက်ဝါလေး | `burmese-episodes/0601-0700/0626.md` |
+| 627 | Chapter 627 | Completed | လုယက်ခြင်း၊ ဝါးမြိုခြင်းနှင့် တွန်းထုတ်ခြင်း | `burmese-episodes/0601-0700/0627.md` |
+| 628 | Chapter 628 | Completed | လေးစားမှုနှင့် အသိအမှတ်ပြုခြင်း | `burmese-episodes/0601-0700/0628.md` |
+| 629 | Chapter 629 | Completed | တံဆိပ်၏ လျှို့ဝက်ချက် | `burmese-episodes/0601-0700/0629.md` |
+| 630 | Chapter 630 | Completed | သနားစဖွယ် ပုရွက်ဆိတ်များ | `burmese-episodes/0601-0700/0630.md` |
+| 631 | Chapter 631 | Completed | အကြည့်တစ်ချက်၏ အစွမ်း | `burmese-episodes/0601-0700/0631.md` |
+| 632 | Chapter 632 | Completed | ရူးနစ်သင်္ကေတ ရှစ်ခု | `burmese-episodes/0601-0700/0632.md` |
+| 633 | Chapter 633 | Completed | ရာသီများကို ပြောင်းပြန်လှန်ခြင်း | `burmese-episodes/0601-0700/0633.md` |
+| 634 | Chapter 634 | Completed | ဆန်ရှန်း၏ အကြံအစည် | `burmese-episodes/0601-0700/0634.md` |
+| 635 | Chapter 635 | Completed | ဝိညာဉ်ဦးကင်း ဆင်းသက်ခြင်း | `burmese-episodes/0601-0700/0635.md` |
+| 636 | Chapter 636 | Completed | တရားစီရင်မှု၏ လျှို့ဝက်ကွပ်မျက်ခြင်းနှင့် တောက်ပသောယန်ကျောက်တုံး | `burmese-episodes/0601-0700/0636.md` |
+| 637 | Chapter 637 | Completed | တောက်ပသောယန်ကျောက်တုံးနှင့် ပေါင်းစပ်ခြင်း | `burmese-episodes/0601-0700/0637.md` |
+| 638 | Chapter 638 | Completed | ဝိညာဉ်သွေးကြောကို ဝါးမြိုခြင်း | `burmese-episodes/0601-0700/0638.md` |
+| 639 | Chapter 639 | Completed | ဒီထျန်းကို သတ်မည် | `burmese-episodes/0601-0700/0639.md` |
+| 640 | Chapter 640 | Completed | ဒီထျန်း၏ ကိုယ်ပွားနှစ်ခု | `burmese-episodes/0601-0700/0640.md` |
+| 641 | Chapter 641 | Completed | မြက်ပင်ထုံးရုပ်သေးအတတ် | `burmese-episodes/0601-0700/0641.md` |
+| 642 | Chapter 642 | Completed | မိစ္ဆာဂိုဏ်းနှင့် နတ်ဂိုဏ်းများ | `burmese-episodes/0601-0700/0642.md` |
+| 643 | Chapter 643 | Completed | အရှေ့ဘက်ကန္တာရ စစ်မြေပြင် | `burmese-episodes/0601-0700/0643.md` |
