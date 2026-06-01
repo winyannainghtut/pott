@@ -636,7 +636,74 @@ This file tracks the translation progress from English to Burmese for Chapters 1
 | 630 | Chapter 630 | Completed | သနားစဖွယ် ပုရွက်ဆိတ်များ | `burmese-episodes/0601-0700/0630.md` |
 | 631 | Chapter 631 | Completed | အကြည့်တစ်ချက်၏ အစွမ်း | `burmese-episodes/0601-0700/0631.md` |
 | 632 | Chapter 632 | Completed | ရူးနစ်သင်္ကေတ ရှစ်ခု | `burmese-episodes/0601-0700/0632.md` |
-| 701 | Chapter 701 | Completed | သိုးဝတုတ်ကြီးများ (Fat Lambs) | `burmese-episodes/0701-0800/0701.md` |
+| 633 | Chapter 633 | Completed | ယာခယ် | `burmese-episodes/0601-0700/0633.md` |
+| 634 | Chapter 634 | Completed | ဖယောင်းတိုင်နဂါး၏ မျက်လုံးများ | `burmese-episodes/0601-0700/0634.md` |
+| 635 | Chapter 635 | Completed | ဆေးဖော်စပ်ခြင်း | `burmese-episodes/0601-0700/0635.md` |
+| 636 | Chapter 636 | Completed | မော့စု၏ ရက်စက်မှု | `burmese-episodes/0601-0700/0636.md` |
+| 637 | Chapter 637 | Completed | ကြီးကျယ်ခမ်းနားလှသော စစ်တလင်း | `burmese-episodes/0601-0700/0637.md` |
+| 638 | Chapter 638 | Completed | နတ်ဘုရားစစ်သူကြီးချပ်ဝတ် | `burmese-episodes/0601-0700/0638.md` |
+| 639 | Chapter 639 | Completed | စစ်တလင်းအတွင်း သတ်ဖြတ်ခြင်း | `burmese-episodes/0601-0700/0639.md` |
+| 640 | Chapter 640 | Completed | ရွှေ့ပြောင်းခြင်းတံခါးပေါက် ခုနစ်ခု | `burmese-episodes/0601-0700/0640.md` |
+| 641 | Chapter 641 | Completed | ဝိညာဉ်ဗိုလ်ချုပ်ကြီး ရှန်းဟွာ | `burmese-episodes/0601-0700/0641.md` |
+| 642 | Chapter 642 | Completed | ငါတို့လည်း လှည့်စားတတ်တယ် | `burmese-episodes/0601-0700/0642.md` |
+| 643 | Chapter 643 | Completed | ညဉ့်နက်စစ်သည်တော် | `burmese-episodes/0601-0700/0643.md` |
+| 644 | Chapter 644 | Completed | ဇီချယ် | `burmese-episodes/0601-0700/0644.md` |
+| 645 | Chapter 645 | Completed | ဘာဆာကာမုဆိုး | `burmese-episodes/0601-0700/0645.md` |
+| 646 | Chapter 646 | Completed | ငါ့ရဲ့ ကျင့်ဝတ်စည်းကမ်း | `burmese-episodes/0601-0700/0646.md` |
+| 647 | Chapter 647 | Completed | လမ်းကျဉ်းပေါ်က တွေ့ဆုံမှု | `burmese-episodes/0601-0700/0647.md` |
+| 648 | Chapter 648 | Completed | ရဲဝံ့သူက အနိုင်ရလိမ့်မည် | `burmese-episodes/0601-0700/0648.md` |
+| 649 | Chapter 649 | Completed | ရဲဘော်ရဲဘက် | `burmese-episodes/0601-0700/0649.md` |
+| 650 | Chapter 650 | Completed | ပြသမှုတစ်ခု | `burmese-episodes/0601-0700/0650.md` |
+| 651 | Chapter 651 | Completed | တုန်လှုပ်ချောက်ချားဖွယ်ရာ ဖျော်ဖြေမှု | `burmese-episodes/0601-0700/0651.md` |
+| 652 | Chapter 652 | Completed | ဘာဆာကာမျိုးနွယ်စု၏ သူရဲကောင်း | `burmese-episodes/0601-0700/0652.md` |
+| 653 | Chapter 653 | Completed | နဝမတောင်ထွတ်၏ အမိန့် | `burmese-episodes/0601-0700/0653.md` |
+| 654 | Chapter 654 | Completed | လေအလား ပြောင်းလဲခြင်း | `burmese-episodes/0601-0700/0654.md` |
+| 655 | Chapter 655 | Completed | လေဘာဆာကာ | `burmese-episodes/0601-0700/0655.md` |
+| 656 | Chapter 656 | Completed | ကံကြမ္မာ | `burmese-episodes/0601-0700/0656.md` |
+| 657 | Chapter 657 | Completed | အရိုးစတေးခြင်းအဆင့် | `burmese-episodes/0601-0700/0657.md` |
+| 658 | Chapter 658 | Completed | ၁၀၀၀ မြောက် သွေးကြောစင်း | `burmese-episodes/0601-0700/0658.md` |
+| 659 | Chapter 659 | Completed | ကောင်းကင်မြူခိုး၏ သားတော် | `burmese-episodes/0601-0700/0659.md` |
+| 660 | Chapter 660 | Completed | ပထမဦးဆုံးသော ဘာဆာကာနတ်ဘုရား၏ အမွေအနှစ် | `burmese-episodes/0601-0700/0660.md` |
+| 661 | Chapter 661 | Completed | အရိုးစတေးခြင်း၏ စွမ်းအား! | `burmese-episodes/0601-0700/0661.md` |
+| 662 | Chapter 662 | Completed | ငါ့နောက်ကို မလိုက်နဲ့! | `burmese-episodes/0601-0700/0662.md` |
+| 663 | Chapter 663 | Completed | ဘာဆာကာဝိညာဉ်၏ သတ်ဖြတ်လိုစိတ်! | `burmese-episodes/0601-0700/0663.md` |
+| 664 | Chapter 664 | Completed | ဘာဆာကာနတ်ဘုရား၏ စွမ်းအား! | `burmese-episodes/0601-0700/0664.md` |
+| 665 | Chapter 665 | Completed | ဒုက္ခရောက်ခြင်း! | `burmese-episodes/0601-0700/0665.md` |
+| 666 | Chapter 666 | Completed | ထွက်ခွာသွားနိုင်ခြင်းမရှိ! | `burmese-episodes/0601-0700/0666.md` |
+| 667 | Chapter 667 | Completed | ဆောင်းဦးပင်လယ် မျိုးနွယ်စု! | `burmese-episodes/0601-0700/0667.md` |
+| 668 | Chapter 668 | Completed | ယာမု! | `burmese-episodes/0601-0700/0668.md` |
+| 669 | Chapter 669 | Completed | ကျိုလီ! | `burmese-episodes/0601-0700/0669.md` |
+| 670 | Chapter 670 | Completed | ဆောင်းဦးပင်လယ် သန့်ရှင်းသောအမျိုးသမီး! | `burmese-episodes/0601-0700/0670.md` |
+| 671 | Chapter 671 | Completed | ဝိညာဉ်ဖမ်းစားသူ | `burmese-episodes/0601-0700/0671.md` |
+| 672 | Chapter 672 | Completed | ဧည့်သည်တော် | `burmese-episodes/0601-0700/0672.md` |
+| 673 | Chapter 673 | Completed | ရတနာများ | `burmese-episodes/0601-0700/0673.md` |
+| 674 | Chapter 674 | Completed | စုမင်၏ ဆုံးဖြတ်ချက် | `burmese-episodes/0601-0700/0674.md` |
+| 675 | Chapter 675 | Completed | နွားလားဥဿဘဖြူ မျိုးနွယ်စုဝင်များ | `burmese-episodes/0601-0700/0675.md` |
+| 676 | Chapter 676 | Completed | စုမင်၏ အေးစက်စက် အကြည့် | `burmese-episodes/0601-0700/0676.md` |
+| 677 | Chapter 677 | Completed | ဟန်တောင်ခေါင်းလောင်းကို တစ်ဖန် ပြန်လည် သန့်စင်ခြင်း | `burmese-episodes/0601-0700/0677.md` |
+| 678 | Chapter 678 | Completed | ပဥ္စမမြောက် ခေါင်း ပွင့်လာခြင်း | `burmese-episodes/0601-0700/0678.md` |
+| 679 | Chapter 679 | Completed | ဆဋ္ဌမမြောက် ခေါင်း ပွင့်လာခြင်း | `burmese-episodes/0601-0700/0679.md` |
+| 680 | Chapter 680 | Completed | လေနှင့် လျှပ်စီးတို့၏ စွမ်းအား | `burmese-episodes/0601-0700/0680.md` |
+| 681 | Chapter 681 | Completed | ဂျိုးငှက်နက် မျိုးနွယ်စု | `burmese-episodes/0601-0700/0681.md` |
+| 682 | Chapter 682 | Completed | ဝိညာဉ်ဖမ်းစားသံ! | `burmese-episodes/0601-0700/0682.md` |
+| 683 | Chapter 683 | Completed | လူပျိုလေး | `burmese-episodes/0601-0700/0683.md` |
+| 684 | Chapter 684 | Completed | ဂျီသခင်မ၏ ခင်ပွန်း | `burmese-episodes/0601-0700/0684.md` |
+| 685 | Chapter 685 | Completed | ဂျိယွန်းဟိုင် | `burmese-episodes/0601-0700/0685.md` |
+| 686 | Chapter 686 | Completed | ကျိန်စာ! | `burmese-episodes/0601-0700/0686.md` |
+| 687 | Chapter 687 | Completed | ကျိန်စာအပေါ် ယူဆချက်များ | `burmese-episodes/0601-0700/0687.md` |
+| 688 | Chapter 688 | Completed | ငါက ရက်စက်တယ်လို့ မင်းပြောတယ်လား။ | `burmese-episodes/0601-0700/0688.md` |
+| 689 | Chapter 689 | Completed | ဂျီသခင်မ၏ သေဆုံးခြင်း! | `burmese-episodes/0601-0700/0689.md` |
+| 690 | Chapter 690 | Completed | ပေါက်ကွဲထွက်ခြင်း | `burmese-episodes/0601-0700/0690.md` |
+| 691 | Chapter 691 | Completed | ညဉ့်ဦးယံထဲမှ နိုးထလာသူ! | `burmese-episodes/0601-0700/0691.md` |
+| 692 | Chapter 692 | Completed | သွေးနဂါးကြီး ပေါ်ပေါက်လာခြင်း! | `burmese-episodes/0601-0700/0692.md` |
+| 693 | Chapter 693 | Completed | ငါက ဆောင်းဦးပင်လယ်မျိုးနွယ်စုရဲ့ ဇုန်ကျဲပဲ! | `burmese-episodes/0601-0700/0693.md` |
+| 694 | Chapter 694 | Completed | ငါ မင်းကို ညဉ့်ဦးယံရဲ့ နီရဲတဲ့ မျက်လုံးတွေကို ပေးသနားတယ်... | `burmese-episodes/0601-0700/0694.md` |
+| 695 | Chapter 695 | Completed | မင်းက ကံကြမ္မာပဲ! | `burmese-episodes/0601-0700/0695.md` |
+| 696 | Chapter 696 | Completed | နီရဲသောကွန်ရက်၏ ပြီးပြည့်စုံသော ပုံဖော်ခြင်း... | `burmese-episodes/0601-0700/0696.md` |
+| 697 | Chapter 697 | Completed | ကံကြမ္မာရဲ့ ဆွဲထုတ်ခြင်း! | `burmese-episodes/0601-0700/0697.md` |
+| 698 | Chapter 698 | Completed | သန့်ရှင်းသော ဝိညာဉ်ရတနာ၏ ဖိနှိပ်ခြင်း! | `burmese-episodes/0601-0700/0698.md` |
+| 699 | Chapter 699 | Completed | ဒီထျန်း ရောက်ရှိလာခြင်း! | `burmese-episodes/0601-0700/0699.md` |
+| 700 | Chapter 700 | Completed | ကောင်းကင်ပြင် ပြိုကွဲခြင်း! | `burmese-episodes/0601-0700/0700.md` |
 | 702 | Chapter 702 | Completed | ကျင့်ကြံခြင်းလမ်းစဉ် (The Path of Cultivation) | `burmese-episodes/0701-0800/0702.md` |
 | 703 | Chapter 703 | Completed | ကိုးခုမြောက်အလွှာ (The Ninth Layer) | `burmese-episodes/0701-0800/0703.md` |
 | 704 | Chapter 704 | Completed | တောင်တစ်လုံး၊ မြစ်တစ်စင်း၊ ကန္တာရတစ်ခု (One Mountain, One River, One Desert) | `burmese-episodes/0701-0800/0704.md` |
